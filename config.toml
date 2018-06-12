@@ -1,7 +1,7 @@
-title = "Airspace for Hugo"
-baseURL = "https://www.example.com"
+title = "BMauri"
+baseURL = "https://maguri.github.io/bmauri-website/"
 languageCode = "es-es"
-theme = "airspace-hugo"
+theme = "bmauri-theme"
 
 [menu]
 

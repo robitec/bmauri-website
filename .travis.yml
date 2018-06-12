@@ -1,0 +1,44 @@
+language: go
+
+go:
+  - 1.9.4
+
+addons:
+  apt:
+    packages:
+      - python-pygments
+
+env:
+  global:
+    - COMMIT_AUTHOR_EMAIL: oriol.mauri@devcows.com
+    - ENCRYPTION_LABEL: 7adb43d426f2
+
+before_install:
+  - export GOPATH=$HOME/go
+  - export PATH=$PATH:$GOPATH/bin
+
+install:
+  - go get github.com/magefile/mage
+  - go get -d github.com/gohugoio/hugo
+  - cd $HOME/go/src/github.com/gohugoio/hugo
+  - mage vendor
+  - mage install
+
+before_script:
+  - mkdir $TRAVIS_BUILD_DIR/themes
+  - git clone --depth 1 https://github.com/maguri/bmauri-theme.git $TRAVIS_BUILD_DIR/themes/bmauri-theme/
+
+script:
+  - hugo -s $TRAVIS_BUILD_DIR
+# - echo "www.bmauri.com" >> $TRAVIS_BUILD_DIR/public/CNAME
+
+deploy:
+  provider: pages
+  skip_cleanup: true
+  local_dir: public
+  github_token: $GITHUB_TOKEN
+  on:
+    branch: master
+
+notifications:
+  slack: devcows:bJqjHDL6xXdgga0I5r0yzM7z
