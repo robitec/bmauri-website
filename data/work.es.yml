@@ -1,9 +1,9 @@
 enable: true
-title: Just some of our latest projects.
+title: Hola
 subtitle: Don’t just take our word for it. Check out some of our latest work.
 
 portfolio:
-  - category: Bunding es
+  - category: Branding
     url: "#"
     image: "/img/portfolio/work1.jpg"
     name: Tesla Motors
