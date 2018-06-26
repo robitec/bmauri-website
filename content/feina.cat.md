@@ -1,4 +1,4 @@
 +++
 title = "Feina"
-id = "feina"
+id = "work"
 +++

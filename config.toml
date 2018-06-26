@@ -43,24 +43,6 @@ DefaultContentLanguage = "es"
     title = "We design delightful digital experiences."
     paragraph = "Read more about what we do and our philosophy of design. Judge for yourself The work and results we’ve achieved for other clients, and meet our highly experienced Team who just love to design."
 
-  [params.contact]
-    enable = true
-    title = "Drop us a note"
-    subtitle = "Don’t just take our word for it. Check out some of our latest work."
-    [params.contact.form]
-      name = "Your name"
-      email = "Your email"
-      subject = "Your subject"
-      message = "Your message"
-      button = "Send message"
-    [params.contact.box]
-      title = "Stop by for a visit"
-      address = "North Main Street, Brooklyn Australia"
-      email = "Email: contact@mail.com"
-      phone = "Phone: +88 01672 506 744"
-    [params.contact.gmaps]
-      title = "We Also Count in Google Maps"
-
 # Languages
 
 [languages]
@@ -173,7 +155,7 @@ DefaultContentLanguage = "es"
       [[languages.cat.menu.header]]
         weight = 5
         name = "Contacte"
-        url = "/contacte"
+        url = "/contact"
 
       [[languages.cat.menu.footer]]
         weight = 1
