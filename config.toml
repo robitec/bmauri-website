@@ -1,58 +1,18 @@
 title = "BMauri"
-baseURL = "https://maguri.github.io/bmauri-website/"
-languageCode = "es-es"
+baseURL = ""# "https://maguri.github.io/bmauri-website/"
+#languageCode = "es-es"
 theme = "bmauri-theme"
-
-[menu]
-
-  [[menu.header]]
-    weight = 2
-    name = "Work"
-    url = "/work"
-  [[menu.header]]
-    weight = 3
-    name = "Blog"
-    url = "/blog"
-  [[menu.header]]
-    weight = 4
-    name = "Service"
-    url = "/service"
-  [[menu.header]]
-    weight = 5
-    name = "Contact"
-    url = "/contact"
-
-  [[menu.footer]]
-    weight = 1
-    name = "About us"
-    url = "#"
-  [[menu.footer]]
-    weight = 2
-    name = "Contact us"
-    url = "#"
-  [[menu.footer]]
-    weight = 3
-    name = "How it works"
-    url = "#"
-  [[menu.footer]]
-    weight = 4
-    name = "Blog"
-    url = "#"
-  [[menu.footer]]
-    weight = 5
-    name = "Terms"
-    url = "#"
+DefaultContentLanguage = "es"
 
 # The site's parameters
+
 [params]
 
   # If you want to remove the copyright text you need a Themefisher license.
   # This license is offered with a 50% discount for all Hugo users.
   # For information see https://github.com/gohugoio/hugoThemes/issues/260
 
-  date_format = "6 January 2006"
-
-  home = "Home"
+   date_format = "6 January 2006"
 
   [params.slider]
     enable = true
@@ -83,20 +43,137 @@ theme = "bmauri-theme"
     title = "We design delightful digital experiences."
     paragraph = "Read more about what we do and our philosophy of design. Judge for yourself The work and results we’ve achieved for other clients, and meet our highly experienced Team who just love to design."
 
-  [params.contact]
-    enable = true
-    title = "Drop us a note"
-    subtitle = "Don’t just take our word for it. Check out some of our latest work."
-    [params.contact.form]
-      name = "Your name"
-      email = "Your email"
-      subject = "Your subject"
-      message = "Your message"
-      button = "Send message"
-    [params.contact.box]
-      title = "Stop by for a visit"
-      address = "North Main Street, Brooklyn Australia"
-      email = "Email: contact@mail.com"
-      phone = "Phone: +88 01672 506 744"
-    [params.contact.gmaps]
-      title = "We Also Count in Google Maps"
+# Languages
+
+[languages]
+  [languages.en]
+    languageName = "English"
+    weight = 1
+    home = "Home"
+
+    [languages.en.menu]
+      [[languages.en.menu.header]]
+        weight = 2
+        name = "Work"
+        url = "/work"
+      [[languages.en.menu.header]]
+        weight = 3
+        name = "Blog"
+        url = "/blog"
+      [[languages.en.menu.header]]
+        weight = 4
+        name = "Service"
+        url = "/service"
+      [[languages.en.menu.header]]
+        weight = 5
+        name = "Contact"
+        url = "/contact"
+
+      [[languages.en.menu.footer]]
+        weight = 1
+        name = "About us"
+        url = "#"
+      [[languages.en.menu.footer]]
+        weight = 2
+        name = "Contact us"
+        url = "#"
+      [[languages.en.menu.footer]]
+        weight = 3
+        name = "How it works"
+        url = "#"
+      [[languages.en.menu.footer]]
+        weight = 4
+        name = "Blog"
+        url = "#"
+      [[languages.en.menu.footer]]
+        weight = 5
+        name = "Terms"
+        url = "#"
+
+  [languages.es]
+    languageName = "Castellano"
+    weight = 1
+    home = "Inicio"
+
+    [languages.es.menu]
+      [[languages.es.menu.header]]
+        weight = 2
+        name = "Trabajo"
+        url = "/trabajo"
+      [[languages.es.menu.header]]
+        weight = 3
+        name = "Blog"
+        url = "/blog"
+      [[languages.es.menu.header]]
+        weight = 4
+        name = "Servicio"
+        url = "/service"
+      [[languages.es.menu.header]]
+        weight = 5
+        name = "Contacto"
+        url = "/contact"
+
+      [[languages.es.menu.footer]]
+        weight = 1
+        name = "Nosotros"
+        url = "#"
+      [[languages.es.menu.footer]]
+        weight = 2
+        name = "Contáctanos"
+        url = "#"
+      [[languages.es.menu.footer]]
+        weight = 3
+        name = "Como funciona"
+        url = "#"
+      [[languages.es.menu.footer]]
+        weight = 4
+        name = "Blog"
+        url = "#"
+      [[languages.es.menu.footer]]
+        weight = 5
+        name = "Términos"
+        url = "#"
+
+  [languages.cat]
+    home = "Inici"
+    languageName = "Català"
+    weight = 1
+
+    [languages.cat.menu]
+      [[languages.cat.menu.header]]
+        weight = 2
+        name = "Feina"
+        url = "/feina"
+      [[languages.cat.menu.header]]
+        weight = 3
+        name = "Blog"
+        url = "/blog"
+      [[languages.cat.menu.header]]
+        weight = 4
+        name = "Serveis"
+        url = "/serveis"
+      [[languages.cat.menu.header]]
+        weight = 5
+        name = "Contacte"
+        url = "/contact"
+
+      [[languages.cat.menu.footer]]
+        weight = 1
+        name = "Nosoltres"
+        url = "#"
+      [[languages.cat.menu.footer]]
+        weight = 2
+        name = "Contacta"
+        url = "#"
+      [[languages.cat.menu.footer]]
+        weight = 3
+        name = "Com funciona"
+        url = "#"
+      [[languages.cat.menu.footer]]
+        weight = 4
+        name = "Blog"
+        url = "#"
+      [[languages.cat.menu.footer]]
+        weight = 5
+        name = "Termes"
+        url = "#"

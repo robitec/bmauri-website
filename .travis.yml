@@ -30,7 +30,7 @@ before_script:
 
 script:
   - hugo -s $TRAVIS_BUILD_DIR
-# - echo "www.bmauri.com" >> $TRAVIS_BUILD_DIR/public/CNAME
+  # - echo "www.bmauri.com" >> $TRAVIS_BUILD_DIR/public/CNAME
 
 deploy:
   provider: pages
