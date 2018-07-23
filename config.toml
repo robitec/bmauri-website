@@ -1,5 +1,5 @@
 title = "BMauri"
-baseURL = "https://maguri.github.io/bmauri-website/"
+baseURL = "" # "https://maguri.github.io/bmauri-website/"
 languageCode = "es-es"
 theme = "bmauri-theme"
 
@@ -79,7 +79,7 @@ theme = "bmauri-theme"
       url = "#"
 
   [params.call]
-    enable = true
+    enable = false
     title = "We design delightful digital experiences."
     paragraph = "Read more about what we do and our philosophy of design. Judge for yourself The work and results we’ve achieved for other clients, and meet our highly experienced Team who just love to design."
 
@@ -93,6 +93,8 @@ theme = "bmauri-theme"
       subject = "Your subject"
       message = "Your message"
       button = "Send message"
+      action = "https://formspree.io/oriolmauriguiu@hotmail.com"
+      thanks_message = "Thanks for your message, we will send you our answer as soon as possible."
     [params.contact.box]
       title = "Stop by for a visit"
       address = "North Main Street, Brooklyn Australia"
@@ -100,3 +102,4 @@ theme = "bmauri-theme"
       phone = "Phone: +88 01672 506 744"
     [params.contact.gmaps]
       title = "We Also Count in Google Maps"
+      iframe = "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d12020.208693514061!2d1.246716!3d41.133387!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x60c510bdd5f5827c!2sB%C3%A1sculas+Mauri!5e0!3m2!1sen!2ses!4v1530261994131"
