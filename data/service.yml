@@ -1,45 +1,46 @@
 enable: true
-title: Our Services
+title: Servicios
 subtitle: >
-  Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics
+  Ofrecemos soluciones para empresas de qualquier sector que necesiten instalar, mejorar o automatizar su sistema de pesaje.
 content:
 
-  - icon: ion-coffee
-    name: Branding
+  - icon: ion-android-car
+    name: Transporte y Logística
     text: >
-      Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut
+      Puertos, Aeropuertos, Básculas de camiones, Packaging
 
-  - icon: ion-compass
-    name: Web Design
+  - icon: ion-ios-nutrition
+    name: Alimentación
     text: >
-      Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut
+      Pesaje para la industria alimentaria. Sector agroalimentario, agricultura, ganadería.
 
-  - icon: ion-image
-    name: App Design
+  - icon: ion-ios-calculator
+    name: PLCs
     text: >
-      Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut
+      Hola
 
-  - icon: ion-bug
-    name: Start Up
+  - icon: ion-android-walk
+    name: Control de Accesos
     text: >
-      Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut
+      Semáforos, Ballas, control Semáforos, Ballas, control Semáforos, Ballas, control
 
-  - icon: ion-headphone
-    name: Logo Design
+  - icon: ion-wrench
+    name: Reparaciones
     text: >
-      Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut
+      Hola
 
-  - icon: ion-leaf
-    name: Development
+  - icon: ion-android-desktop
+    name: Sistemas Informáticos
     text: >
-      Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut
+      Hola
 
-  - icon: ion-planet
-    name: Brand Identity
+  - icon: ion-cube
+    name: Pesaje en Continuo
     text: >
-      Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut
+      Hola
 
-  - icon: ion-earth
-    name: Brand Identity
+
+  - icon: ion-android-boat
+    name: Puertos
     text: >
-      Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut
+      Hola

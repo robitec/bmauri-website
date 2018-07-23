@@ -7,28 +7,28 @@ theme = "bmauri-theme"
 
   [[menu.header]]
     weight = 2
-    name = "Work"
+    name = "Ingeniería"
     url = "/work"
   [[menu.header]]
     weight = 3
-    name = "Blog"
+    name = "Proyectos"
     url = "/blog"
   [[menu.header]]
     weight = 4
-    name = "Service"
+    name = "Tecnologías"
     url = "/service"
   [[menu.header]]
     weight = 5
-    name = "Contact"
+    name = "Contacto"
     url = "/contact"
 
   [[menu.footer]]
     weight = 1
-    name = "About us"
+    name = "Nosotros"
     url = "#"
   [[menu.footer]]
     weight = 2
-    name = "Contact us"
+    name = "Contactanos"
     url = "#"
   [[menu.footer]]
     weight = 3
@@ -36,7 +36,7 @@ theme = "bmauri-theme"
     url = "#"
   [[menu.footer]]
     weight = 4
-    name = "Blog"
+    name = "Proyectos"
     url = "#"
   [[menu.footer]]
     weight = 5
@@ -52,18 +52,18 @@ theme = "bmauri-theme"
 
   date_format = "6 January 2006"
 
-  home = "Home"
+  home = "Inicio"
 
   [params.slider]
     enable = true
-    title = "A digital marketing &amp; design agency"
-    subtitle = "We love the Web and the work we do.<br/>We work closely with our clients to deliver the best possible solutions for their needs"
+    title = "Te ayudamos a llegar más lejos"
+    subtitle = "Pesage industiral, Digitalizamos la industria<br/>Trabajamos de forma cercana con el clilente para dar la mejor solución a sus necesidades."
 
   [params.wrapper]
     enable = true
-    title = "About Us"
-    italic = "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics"
-    paragraph = "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id"
+    title = "Nosotros"
+    italic = "Somos una empresa familiar cercana e íntima con el cliente. Destacamos por la proximidad y la profesionalidad con lo que hacemos las cosas."
+    paragraph = "Somos capaces de trabajar en entornos bien diferentes dentro de la industria del pesaje. Trabajamos tanto en la industria del pesaje logístico de transportes y mercaderías, desde el pesage industrial en el sector alimentario y otros, a pesaje a nivel de laboratorio."
 
   [params.blog]
     enable = true
@@ -72,11 +72,11 @@ theme = "bmauri-theme"
 
   [params.feature]
     enable = true
-    title = "We believe in great ideas"
-    content = "Maecenas faucibus mollis interdum. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Maecenas faucibus mollis interdum. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Maecenas faucibus mollis interdum. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus."
+    title = "Creemos en la perfección"
+    content = "Nos satisface el buen trabajo y que el cliente pueda cumplir con sus necesidades de manera ágil y sin interrupciones. Somos profesionales y nos implicamos de forma personal en cada uno de nuestros proyectos. Ya sea trabajando con pequeñas o grandes empresas, gracias a nuestro <strong>Departamento de I+D</strong>, aportamos la mejor solución a las necesidades de esta y le ayudamos a seguir creciendo hacia la buena dirección."
     [params.feature.button]
-      caption = "View Works"
-      url = "#"
+      caption = "Ver Proyectos"
+      url = "/blog"
 
   [params.call]
     enable = false
