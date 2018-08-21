@@ -1,5 +1,5 @@
 enable: true
-title: Servicios
+title: Servicios y Tecnologías
 subtitle: >
   Ofrecemos soluciones para empresas de qualquier sector que necesiten instalar, mejorar o automatizar su sistema de pesaje.
 content:
@@ -7,40 +7,39 @@ content:
   - icon: ion-android-car
     name: Transporte y Logística
     text: >
-      Puertos, Aeropuertos, Básculas de camiones, Packaging
+      Básculas de camiones y sistemas de pesaje de gran tonelaje.
 
-  - icon: ion-ios-nutrition
+  - icon: ion-android-boat
+    name: Puertos y Aeropuertos
+    text: >
+      Pesaje de contenedores, control y monitorización de las cargas.
+
+  - icon: ion-wineglass # ion-fork
     name: Alimentación
     text: >
-      Pesaje para la industria alimentaria. Sector agroalimentario, agricultura, ganadería.
-
-  - icon: ion-ios-calculator
-    name: PLCs
-    text: >
-      Hola
-
-  - icon: ion-android-walk
-    name: Control de Accesos
-    text: >
-      Semáforos, Ballas, control Semáforos, Ballas, control Semáforos, Ballas, control
-
-  - icon: ion-wrench
-    name: Reparaciones
-    text: >
-      Hola
+      Pesaje para la industria alimentaria.
 
   - icon: ion-android-desktop
     name: Sistemas Informáticos
     text: >
-      Hola
+      Trabajamos en la Nube. Software personalizado a las necesidades del cliente.
 
-  - icon: ion-cube
+  - icon: ion-android-walk
+    name: Control de Accesos
+    text: >
+      Semáforos, Ballas y Software de control de entradas y salidas.
+
+  - icon: ion-ios-box
     name: Pesaje en Continuo
     text: >
-      Hola
+      Cadenas de producción con control de pesaje y control volumétrico.
 
-
-  - icon: ion-android-boat
-    name: Puertos
+  - icon: ion-ios-calculator
+    name: PLCs
     text: >
-      Hola
+      Software y Hardware dinámico y escalable.
+
+  - icon: ion-settings
+    name: Reparaciones
+    text: >
+      Ayuda personalizada para clientes.

@@ -25,22 +25,22 @@ theme = "bmauri-theme"
   [[menu.footer]]
     weight = 1
     name = "Nosotros"
-    url = "#"
+    url = "/#intro"
   [[menu.footer]]
     weight = 2
     name = "Contactanos"
-    url = "#"
+    url = "/contact"
   [[menu.footer]]
     weight = 3
-    name = "How it works"
-    url = "#"
+    name = "Servicios"
+    url = "/service"
   [[menu.footer]]
     weight = 4
     name = "Proyectos"
-    url = "#"
+    url = "/blog"
   [[menu.footer]]
     weight = 5
-    name = "Terms"
+    name = "Terms & Conditions"
     url = "#"
 
 # The site's parameters
