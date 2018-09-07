@@ -2,13 +2,14 @@ title = "BMauri"
 baseURL = "" # "https://maguri.github.io/bmauri-website/"
 languageCode = "es-es"
 theme = "bmauri-theme"
+# icons = https://ionicons.com/v2/cheatsheet.html
 
 [menu]
 
   [[menu.header]]
     weight = 2
     name = "Ingeniería"
-    url = "/work"
+    url = "/products"
   [[menu.header]]
     weight = 3
     name = "Proyectos"
@@ -57,13 +58,13 @@ theme = "bmauri-theme"
   [params.slider]
     enable = true
     title = "Te ayudamos a llegar más lejos"
-    subtitle = "Pesage industiral, Digitalizamos la industria<br/>Trabajamos de forma cercana con el clilente para dar la mejor solución a sus necesidades."
+    subtitle = "Pesaje industiral, Digitalizamos la industria<br/>Trabajamos de forma cercana con el clilente para dar la mejor solución a sus necesidades."
 
   [params.wrapper]
     enable = true
     title = "Nosotros"
     italic = "Somos una empresa familiar cercana e íntima con el cliente. Destacamos por la proximidad y la profesionalidad con lo que hacemos las cosas."
-    paragraph = "Somos capaces de trabajar en entornos bien diferentes dentro de la industria del pesaje. Trabajamos tanto en la industria del pesaje logístico de transportes y mercaderías, desde el pesage industrial en el sector alimentario y otros, a pesaje a nivel de laboratorio."
+    paragraph = "Somos capaces de trabajar en entornos bien diferentes dentro de la industria del pesaje. Trabajamos tanto en la industria del pesaje logístico de transportes y mercaderías, desde el pesaje industrial en el sector alimentario y otros, a pesaje a nivel de laboratorio."
 
   [params.blog]
     enable = true
@@ -85,21 +86,21 @@ theme = "bmauri-theme"
 
   [params.contact]
     enable = true
-    title = "Drop us a note"
-    subtitle = "Don’t just take our word for it. Check out some of our latest work."
+    title = "Como podemos ayudarle?"
+    subtitle = "Envíenos sus preguntas o solicitudes a través del formulario de respuesta o contactenos por teléfono. Estaremos encantados de ayudarle."
     [params.contact.form]
-      name = "Your name"
-      email = "Your email"
-      subject = "Your subject"
-      message = "Your message"
-      button = "Send message"
-      action = "https://formspree.io/oriolmauriguiu@hotmail.com"
+      name = "Su nombre"
+      email = "Su correo electónico"
+      subject = "Agregar un asunto"
+      message = "Su mensaje"
+      button = "Enviar mensaje"
+      action = "https://formspree.io/oriolmauriguiu@hotmail.es"
       thanks_message = "Thanks for your message, we will send you our answer as soon as possible."
     [params.contact.box]
-      title = "Stop by for a visit"
-      address = "North Main Street, Brooklyn Australia"
-      email = "Email: contact@mail.com"
-      phone = "Phone: +88 01672 506 744"
+      title = "Nuestras dirección"
+      address = "Avinguda dels Països Catalans, 28 Local B, Tarragona"
+      email = "Correo: soporte@bmauri.com"
+      phone = "Phone: +34 902 21 20 85"
     [params.contact.gmaps]
-      title = "We Also Count in Google Maps"
+      title = "También estamos en Google Maps"
       iframe = "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d12020.208693514061!2d1.246716!3d41.133387!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x60c510bdd5f5827c!2sB%C3%A1sculas+Mauri!5e0!3m2!1sen!2ses!4v1530261994131"

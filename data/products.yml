@@ -1,0 +1,108 @@
+enable: true
+title: Destacando por la inovación.
+subtitle: Trabajando en el sector de la ingeniería con las últimas tecnologías.
+
+all: General
+categories:
+  - category: Células
+  - category: Terminales
+  - category: Silos
+  - category: Detectores
+  - category: Controladores
+  - category: Software
+
+portfolio:
+  - category: Terminales
+    url: "/products/maxxis-5"
+    image: "/img/portfolio/maxxis_5.jpg"
+    name: MAXXIS 5
+    description: >
+      Terminal programable Maxxis 5 de Minebea Intec
+  - category: Controladores
+    url: "/products/controlador-cosynus"
+    image: "/img/portfolio/controlador_cosynus.jpg"
+    name: Cosynus
+    description: >
+      Pesadora dinámica con detector de metales
+  - category: CELULAS DE CAMIONES
+    url: "#"
+    image: "/img/portfolio/maxxis_5.jpg"
+    name: Tesla Motors
+    description: >
+      Labore et dolore magna aliqua. Ut enim ad
+  - category: TECNOLGÍA DIGITAL
+    url: "#"
+    image: "/img/portfolio/maxxis_5.jpg"
+    name: MAXXIS 5
+    description: >
+      Labore et dolore magna aliqua. Ut enim ad
+  - category: Transporte
+    url: "#"
+    image: "/img/portfolio/maxxis_5.jpg"
+    name: MAXXIS 5
+    description: >
+      Labore et dolore magna aliqua. Ut enim ad
+  - category: Silos
+    url: "#"
+    image: "/img/portfolio/maxxis_5.jpg"
+    name: MAXXIS 5
+    description: >
+      Labore et dolore magna aliqua. Ut enim ad
+  - category: Silos
+    url: "#"
+    image: "/img/portfolio/maxxis_5.jpg"
+    name: MAXXIS 5
+    description: >
+      Labore et dolore magna aliqua. Ut enim ad
+  - category: Silos
+    url: "#"
+    image: "/img/portfolio/maxxis_5.jpg"
+    name: MAXXIS 5
+    description: >
+      Labore et dolore magna aliqua. Ut enim ad
+  - category: Logística
+    url: "#"
+    image: "/img/portfolio/maxxis_5.jpg"
+    name: MAXXIS 5
+    description: >
+      Labore et dolore magna aliqua. Ut enim ad
+  - category: Logística
+    url: "#"
+    image: "/img/portfolio/maxxis_5.jpg"
+    name: MAXXIS 5
+    description: >
+      Labore et dolore magna aliqua. Ut enim ad
+  - category: Software
+    url: "#"
+    image: "/img/portfolio/maxxis_5.jpg"
+    name: MAXXIS 5
+    description: >
+      Labore et dolore magna aliqua. Ut enim ad
+  - category: Software
+    url: "#"
+    image: "/img/portfolio/maxxis_5.jpg"
+    name: MAXXIS 5
+    description: >
+      Labore et dolore magna aliqua. Ut enim ad
+
+clients:
+  - image: "/img/clients/clients-logo-1.jpg"
+    url: "#"
+  - image: "/img/clients/clients-logo-2.jpg"
+    url: "#"
+  - image: "/img/clients/clients-logo-3.jpg"
+    url: "#"
+  - image: "/img/clients/clients-logo-4.jpg"
+    url: "#"
+  - image: "/img/clients/clients-logo-5.jpg"
+    url: "#"
+  - image: "/img/clients/clients-logo-6.jpg"
+    url: "#"
+  - image: "/img/clients/clients-logo-7.jpg"
+    url: "#"
+  - image: "/img/clients/clients-logo-8.jpg"
+    url: "#"
+  - image: "/img/clients/clients-logo-9.jpg"
+    url: "#"
+  - image: "/img/clients/clients-logo-10.jpg"
+    url: "#"

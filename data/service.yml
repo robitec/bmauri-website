@@ -40,6 +40,26 @@ content:
       Software y Hardware dinámico y escalable.
 
   - icon: ion-settings
-    name: Reparaciones
+    name: Mantenimiento
     text: >
-      Ayuda personalizada para clientes.
+      Ayuda personalizada para clientes. Reparaciones, Mantenimiento y Substituciones.
+
+  - icon: ion-printer
+    name: Etiquetadoras
+    text: >
+      Etiquetage en continuo con impresoras SATO y VA.
+
+  - icon: ion-ios-flask
+    name: Químicas
+    text: >
+      Industraias químicas y Software personalizado para las mismas.
+
+  - icon: ion-funnel
+    name: IBC
+    text: >
+      Sistemas automático de llenados líquidos
+
+  - icon: ion-ios-lightbulb
+    name: I+D
+    text: >
+      Investigación y Desarrollo de productos personalizados.
