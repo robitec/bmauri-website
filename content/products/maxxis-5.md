@@ -1,12 +1,15 @@
 ---
 title: "Maxxis 5"
-date: 2018-09-07T14:56:27+02:00
 draft: false
 section: products
+img:
+  url: /img/portfolio/maxxis_5.jpg
+category: Terminal Programable
 ---
-Controlador de procesos de programación libre, concebido para aplicaciones tan diversas como fase, generación de lotes, llenado, IBC, recuentos y pesaje en camión. Amplias opciones de conectividad y compatibilidad con todas las células de carga analógicas y con las células de carga digitales **Pendeo®**, así como con las básculas de plataforma y muchas más soluciones de pesaje.
 
-1. Conexión de hasta cuatro básculas
+Controlador de procesos de programación libre, concebido para aplicaciones tan diversas como fase, generación de lotes, llenado, IBC, recuentos y pesaje en camión. Amplias opciones de conectividad y compatibilidad con todas las células de carga analógicas y con las células de carga digitales Pendeo®, así como con las básculas de plataforma y muchas más soluciones de pesaje.
+
+- Conexión de hasta cuatro básculas
 - Pantalla grande a color 5.7“ con interfaz multilingüe y función de asistencia integrada para un manejo intuitivo
 - Diversas posibilidades de interfaz Ethernet TCP/IP, ModBus TCP, Profibus DP, DeviceNet, Profinet, Ethernet/IP y USB
 - Maxxis 5 viene equipado con un servidor web interno, y puede configurarse y controlarse mediante cualquier navegador web estándar
@@ -16,7 +19,7 @@ Controlador de procesos de programación libre, concebido para aplicaciones tan 
 
 Como dispositivo de uso múltiple, Maxxis 5 está preprogramado para controlar una gran variedad de aplicaciones complejas. El equipo de ingenieros de software de Minebea Intec, junto con varios especialistas del sector, ha creado soluciones de software que permiten integrar la unidad sin problemas en cualquier proceso. No obstante, los usuarios que lo necesiten pueden utilizar el sencillo lenguaje de programación IEC61131 para implementar sus propias funcionalidades.
 
-Maxxis 5 se puede suministrar con cualquiera de las 6 aplicaciones estándar preinstaladas. Estas aplicaciones se han probado y perfeccionado para garantizar la integración directa de la unidad en el momento del envío. Sin embargo, en el caso de aplicaciones exclusivas, sus propios técnicos pueden preprogramar fácilmente el Maxxis 5. Si necesita asistencia con esta tarea, los especialistas en software de Minebea Intec estarán encantados de ayudarle.
+**Maxxis 5** se puede suministrar con cualquiera de las 6 aplicaciones estándar preinstaladas. Estas aplicaciones se han probado y perfeccionado para garantizar la integración directa de la unidad en el momento del envío. Sin embargo, en el caso de aplicaciones exclusivas, sus propios técnicos pueden preprogramar fácilmente el Maxxis 5. Si necesita asistencia con esta tarea, los especialistas en software de Minebea Intec estarán encantados de ayudarle.
 
 Los controladores de peso son indicadores de peso con función de control integrada para la automatización de procesos de pesaje. Minebea Intec ofrece dos controladores de peso libremente programables (lenguaje de programación IEC61131) o pueden equiparse con las siguientes aplicaciones de software predefinidas.
 

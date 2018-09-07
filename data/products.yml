@@ -2,13 +2,13 @@ enable: true
 title: Destacando por la inovación.
 subtitle: Trabajando en el sector de la ingeniería con las últimas tecnologías.
 
-all: General
+all: Todo
 categories:
   - category: Células
   - category: Terminales
   - category: Silos
   - category: Detectores
-  - category: Controladores
+  - category: Controladoras
   - category: Software
 
 portfolio:
@@ -18,22 +18,22 @@ portfolio:
     name: MAXXIS 5
     description: >
       Terminal programable Maxxis 5 de Minebea Intec
-  - category: Controladores
+  - category: Controladoras
     url: "/products/controlador-cosynus"
     image: "/img/portfolio/controlador_cosynus.jpg"
     name: Cosynus
     description: >
       Pesadora dinámica con detector de metales
-  - category: CELULAS DE CAMIONES
-    url: "#"
-    image: "/img/portfolio/maxxis_5.jpg"
-    name: Tesla Motors
+  - category: Controladoras
+    url: "/products/controlador-wm"
+    image: "/img/portfolio/controlador_wm.jpg"
+    name: Módulos de pesaje WM
     description: >
-      Labore et dolore magna aliqua. Ut enim ad
-  - category: TECNOLGÍA DIGITAL
-    url: "#"
-    image: "/img/portfolio/maxxis_5.jpg"
-    name: MAXXIS 5
+      Módulo WM económico para productos pesados.
+  - category: Controladoras
+    url: "/products/controlador-flexus"
+    image: "/img/portfolio/controlador_flexus.jpg"
+    name: Flexus® Combi
     description: >
       Labore et dolore magna aliqua. Ut enim ad
   - category: Transporte

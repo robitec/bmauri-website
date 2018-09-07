@@ -97,7 +97,7 @@ theme = "bmauri-theme"
       action = "https://formspree.io/oriolmauriguiu@hotmail.es"
       thanks_message = "Thanks for your message, we will send you our answer as soon as possible."
     [params.contact.box]
-      title = "Nuestras dirección"
+      title = "Nuestra dirección"
       address = "Avinguda dels Països Catalans, 28 Local B, Tarragona"
       email = "Correo: soporte@bmauri.com"
       phone = "Phone: +34 902 21 20 85"
