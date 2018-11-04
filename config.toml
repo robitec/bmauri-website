@@ -58,7 +58,7 @@ theme = "bmauri-theme"
   [params.slider]
     enable = true
     title = "Te ayudamos a llegar más lejos"
-    subtitle = "Pesaje industiral, Digitalizamos la industria<br/>Trabajamos de forma cercana con el clilente para dar la mejor solución a sus necesidades."
+    subtitle = "Pesaje industiral, Digitalizamos la industria<br/>Trabajamos de forma cercana con el cliente para dar la mejor solución a sus necesidades."
 
   [params.wrapper]
     enable = true

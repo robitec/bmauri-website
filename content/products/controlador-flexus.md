@@ -6,4 +6,6 @@ section: products
 img:
   url: /img/portfolio/controlador_flexus.jpg
 category: Unidades combinadas Pesadora dinámica/detector de metales
+pdf:
+  link: /img/portfolio/controlador_cosynus.jpg
 ---

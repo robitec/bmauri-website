@@ -5,6 +5,8 @@ section: products
 img:
   url: /img/portfolio/controlador_wm.jpg
 category: Controladoras de peso de fin de línea
+pdf:
+  link: /img/portfolio/controlador_cosynus.jpg
 ---
 
 El módulo WM es una solución extremadamente económica para productos grandes pesados.
