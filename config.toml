@@ -8,7 +8,7 @@ theme = "bmauri-theme"
 
   [[menu.header]]
     weight = 2
-    name = "Ingeniería"
+    name = "Catálogo"
     url = "/products"
   [[menu.header]]
     weight = 3
@@ -68,8 +68,8 @@ theme = "bmauri-theme"
 
   [params.blog]
     enable = true
-    title = "Get The Latest On What We're doing"
-    subtitle = "Catch up with us, anytime and anywhere"
+    title = "Quieres saber a qué nos dedicamos?"
+    subtitle = "Hechale un vistazo a alguno de nuestros proyectos"
 
   [params.feature]
     enable = true
@@ -95,11 +95,11 @@ theme = "bmauri-theme"
       message = "Su mensaje"
       button = "Enviar mensaje"
       action = "https://formspree.io/oriolmauriguiu@hotmail.es"
-      thanks_message = "Thanks for your message, we will send you our answer as soon as possible."
+      thanks_message = "Gracias por su mensaje, le enviaremos resupesta lo antes posible."
     [params.contact.box]
       title = "Nuestra dirección"
       address = "Avinguda dels Països Catalans, 28 Local B, Tarragona"
-      email = "Correo: soporte@bmauri.com"
+      email = "Correo: bmauri@bmauri.com"
       phone = "Phone: +34 902 21 20 85"
     [params.contact.gmaps]
       title = "También estamos en Google Maps"

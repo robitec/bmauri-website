@@ -14,10 +14,13 @@ content:
     text: >
       Pesaje de contenedores, control y monitorización de las cargas.
 
-  - icon: ion-wineglass # ion-fork
-    name: Alimentación
+  - icon: ion-ios-paper
+    name: Calibraciones ENAC
     text: >
-      Pesaje para la industria alimentaria.
+      Calibraciones de Masa, Volumen y Temperatura.
+    link:
+      path: /blog/calibraciones-enac
+      text_link: Saber más
 
   - icon: ion-android-desktop
     name: Sistemas Informáticos
@@ -52,7 +55,7 @@ content:
   - icon: ion-ios-flask
     name: Químicas
     text: >
-      Industraias químicas y Software personalizado para las mismas.
+      Implementación de soluciones personalizadas en la Industraia química.
 
   - icon: ion-funnel
     name: IBC
@@ -62,4 +65,4 @@ content:
   - icon: ion-ios-lightbulb
     name: I+D
     text: >
-      Investigación y Desarrollo de productos personalizados.
+      Investigación y Desarrollo de productos a medida.
