@@ -8,7 +8,7 @@ theme = "bmauri-theme"
 
   [[menu.header]]
     weight = 2
-    name = "Catálogo"
+    name = "Tecnologías"
     url = "/products"
   [[menu.header]]
     weight = 3
@@ -16,7 +16,7 @@ theme = "bmauri-theme"
     url = "/blog"
   [[menu.header]]
     weight = 4
-    name = "Tecnologías"
+    name = "Servicios"
     url = "/service"
   [[menu.header]]
     weight = 5
@@ -69,7 +69,7 @@ theme = "bmauri-theme"
   [params.blog]
     enable = true
     title = "Quieres saber a qué nos dedicamos?"
-    subtitle = "Hechale un vistazo a alguno de nuestros proyectos"
+    subtitle = "Hecha un vistazo a algunas de las cosas que hacemos, y si encaja con sus necesidades no dudes en ponerse en contacto con nosotros."
 
   [params.feature]
     enable = true
@@ -99,7 +99,7 @@ theme = "bmauri-theme"
     [params.contact.box]
       title = "Nuestra dirección"
       address = "Avinguda dels Països Catalans, 28 Local B, Tarragona"
-      email = "Correo: bmauri@bmauri.com"
+      email = "Correo: info@bmauri.com"
       phone = "Phone: +34 902 21 20 85"
     [params.contact.gmaps]
       title = "También estamos en Google Maps"

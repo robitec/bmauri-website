@@ -2,13 +2,12 @@
 title: "Módulos de pesaje WM"
 draft: false
 section: products
-img:
-  url: /img/portfolio/controlador_wm.jpg
 category: Controladoras de peso de fin de línea
 pdf:
-  link: /img/portfolio/controlador_cosynus.jpg
+  link: https://assets.minebea-intec.com/fileadmin/fm-fal/intec_media/Industrial_Weighing/Documents/Checkweighers/BRO_Checkweigher_es.pdf
 ---
 
+<img src="/img/portfolio/controlador_wm.jpg" class="img-responsive" style="max-height: 300px; float: right!important;">
 El módulo WM es una solución extremadamente económica para productos grandes pesados.
 
 - El módulo WM es una solución extremadamente económica para productos grandes pesados

@@ -6,36 +6,36 @@ paragraph: >
 
 numbers:
   - icon: ion-ios-chatboxes-outline
-    counter: 5000
+    counter: 2453
     text: Agradecimientos
   - icon: ion-ios-star-outline
-    counter: 400
+    counter: 35
     text: Clientes estrella
   - icon: ion-ios-people-outline
-    counter: 1200
-    text: Clientes
+    counter: 118
+    text: Clientes activos
   - icon: ion-ios-timer-outline
-    counter: 1800
+    counter: 1200
     text: Sistemas en funcionamiento
 
 people:
   - text: >
       Bàsculas Mauri es una empresa próxima y profesional y leal. Todos los proyectos me han dado buen resultado.
-    image: img/item-img1.jpg
+    image: /img/item-img1.jpg
     name: Carlos Bonastre
     role: Agricoles Bonastre
   - text: >
-      This Company created an e-commerce site with the tools to make our business a success, with innovative ideas we feel that our site has unique elements that make us stand out from the crowd.
-    image: img/item-img1.jpg
-    name: Rose Ray
-    role: Cap de la fábrics Borge
+      Germán es un tipo muy simpático y entrañable, y no es difícil tratar con él, hacer negocios y conseguir que todo funcione sin complicaciones.
+    image: /img/item-img1.jpg
+    name: Roser Ray
+    role: Cap de la Borges
   - text: >
-      This Company created an e-commerce site with the tools to make our business a success, with innovative ideas we feel that our site has unique elements that make us stand out from the crowd.
-    image: img/item-img1.jpg
-    name: Rose Ray
-    role: Seller-Manager-Nestle
+      Básculas Mauri es una empresa familiar que se preocupa por el cliente y transmite ese compromiso directamente con su trabajo y labor profesional a la hora de implementar los proyectos.
+    image: /img/item-img1.jpg
+    name: Maria Estivill
+    role: Seller-Manager at Nestle
   - text: >
-      This Company created an e-commerce site with the tools to make our business a success, with innovative ideas we feel that our site has unique elements that make us stand out from the crowd.
-    image: img/item-img1.jpg
+      Los tres hermanos són grandes personas, el personal de Básculas Mauri es familiar pero a la vez profesional. Trabajar con ellos es tarea fácil, y la libertad de comunicación que puedes tener con ellos te permite ser productivo y estar tranquilo.
+    image: /img/item-img1.jpg
     name: Joan Lladó
     role: Chef at Repsol

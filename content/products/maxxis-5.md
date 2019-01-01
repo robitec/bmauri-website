@@ -9,6 +9,7 @@ pdf:
   link: /img/portfolio/controlador_cosynus.jpg
 ---
 
+<img src="/img/portfolio/maxxis_5.jpg" class="img-responsive" style="max-height: 300px; float: right!important;">
 Controlador de procesos de programación libre, concebido para aplicaciones tan diversas como fase, generación de lotes, llenado, IBC, recuentos y pesaje en camión. Amplias opciones de conectividad y compatibilidad con todas las células de carga analógicas y con las células de carga digitales Pendeo®, así como con las básculas de plataforma y muchas más soluciones de pesaje.
 
 - Conexión de hasta cuatro básculas
