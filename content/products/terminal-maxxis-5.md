@@ -4,7 +4,7 @@ draft: false
 section: products
 category: Terminal Programable
 pdf:
-  link:
+  link: https://assets.minebea-intec.com/fileadmin/fm-fal/intec_media/Industrial_Weighing/Documents/Weight_Indicators/Maxxis_5/DS_Maxxis_5_en.pdf
 ---
 
 <img src="/img/products/maxxis_5.jpg" class="img-responsive" style="max-height: 300px; float: right!important;">

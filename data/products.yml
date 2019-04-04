@@ -4,14 +4,21 @@ subtitle: Ofrecemos soluciones en el sector de la ingeniería con las más abanz
 
 all: Todo
 categories:
+  - category: Básculas
   - category: Terminales
   - category: Células
-  - category: Silos
   - category: Controladoras
   - category: Software
-  - category: Detectores
 
 portfolio:
+
+### Terminales
+  - category: Básculas
+    url: "/products/terminal-maxxis-5"
+    image: "/img/products/bascula-plataforma.png"
+    name: B
+    description: >
+      N
 
 ### Terminales
   - category: Terminales
@@ -81,24 +88,16 @@ portfolio:
     description: >
       Labore et dolore magna aliqua. Ut enim ad
 
-### Detectores
-  - category: Detectores
-    url: "#"
-    image: "/img/products/maxxis_5.jpg"
-    name: A
-    description: >
-      A
-
 ### Software
   - category: Software
     url: "#"
-    image: "/img/products/maxxis_5.jpg"
+    image: "/img/products/software-app.png"
     name: Desktop Apps
     description: >
       Aplicaciones de escritorio para sistemas de control local
   - category: Software
     url: "#"
-    image: "/img/products/maxxis_5.jpg"
+    image: "/img/products/software-app.png"
     name: Web apps
     description: >
       Aplicaciones web conectadas al Cloud
