@@ -8,16 +8,16 @@ theme = "bmauri-theme"
 
   [[menu.header]]
     weight = 2
+    name = "Servicios"
+    url = "/service"
+  [[menu.header]]
+    weight = 3
     name = "Tecnologías"
     url = "/products"
   [[menu.header]]
-    weight = 3
+    weight = 4
     name = "Proyectos"
     url = "/blog"
-  [[menu.header]]
-    weight = 4
-    name = "Servicios"
-    url = "/service"
   [[menu.header]]
     weight = 5
     name = "Contacto"

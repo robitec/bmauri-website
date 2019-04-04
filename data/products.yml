@@ -4,86 +4,104 @@ subtitle: Ofrecemos soluciones en el sector de la ingeniería con las más abanz
 
 all: Todo
 categories:
-  - category: Células
   - category: Terminales
+  - category: Células
   - category: Silos
-  - category: Detectores
   - category: Controladoras
   - category: Software
+  - category: Detectores
 
 portfolio:
+
+### Terminales
   - category: Terminales
-    url: "/products/maxxis-5"
-    image: "/img/portfolio/maxxis_5.jpg"
+    url: "/products/terminal-maxxis-5"
+    image: "/img/products/maxxis_5.jpg"
     name: MAXXIS 5
     description: >
       Terminal programable Maxxis 5 de Minebea Intec
+
+### Células
+  - category: Células
+    url: "products/celula-inteco"
+    image: "/img/products/celula-inteco.png"
+    name: Célula Inteco®
+    description: >
+      Célula de carga de compresión para recipientes y Silos
+  - category: Células
+    url: "products/celula-silos-pr-6201"
+    image: "/img/products/celula-silos-pr-6201.png"
+    name: Recipientes y Silos
+    description: >
+      Célula de compresión y precisión PR-6201®
+  - category: Células
+    url: "products/celula-camion-pr-6221"
+    image: "/img/products/celula-camion-pr-6221.png"
+    name: Camiones
+    description: >
+      Célula de carga para básculas de camiones PR-6221®
+  - category: Células
+    url: "products/celula-contejo"
+    image: "/img/products/celula-contejo.png"
+    name: Módulo de pesaje
+    description: >
+      Diseño higiénico para recipientes
+  - category: Células
+    url: "products/celula-plataforma-sobremesa-suelo"
+    image: "/img/products/celula-mp-72.png"
+    name: Sobremesa
+    description: >
+      Básculas y máquinas de sobremesa y de suelo MP-72
+
+### Silos
+  - category: Silos
+    url: "#"
+    image: "/img/products/maxxis_5.jpg"
+    name: Silo
+    description: >
+      Labore et dolore magna aliqua. Ut enim ad
+
+### Controladoras
   - category: Controladoras
     url: "/products/controlador-cosynus"
-    image: "/img/portfolio/controlador_cosynus.jpg"
+    image: "/img/products/controlador_cosynus.jpg"
     name: Cosynus
     description: >
       Pesadora dinámica con detector de metales
   - category: Controladoras
     url: "/products/controlador-wm"
-    image: "/img/portfolio/controlador_wm.jpg"
+    image: "/img/products/controlador_wm.jpg"
     name: Módulos de pesaje WM
     description: >
       Módulo WM económico para productos pesados.
   - category: Controladoras
     url: "/products/controlador-flexus"
-    image: "/img/portfolio/controlador_flexus.jpg"
+    image: "/img/products/controlador_flexus.jpg"
     name: Flexus® Combi
     description: >
       Labore et dolore magna aliqua. Ut enim ad
-  - category: Transporte
+
+### Detectores
+  - category: Detectores
     url: "#"
-    image: "/img/portfolio/maxxis_5.jpg"
-    name: MAXXIS 5
+    image: "/img/products/maxxis_5.jpg"
+    name: A
     description: >
-      Labore et dolore magna aliqua. Ut enim ad
-  - category: Silos
-    url: "#"
-    image: "/img/portfolio/maxxis_5.jpg"
-    name: MAXXIS 5
-    description: >
-      Labore et dolore magna aliqua. Ut enim ad
-  - category: Silos
-    url: "#"
-    image: "/img/portfolio/maxxis_5.jpg"
-    name: MAXXIS 5
-    description: >
-      Labore et dolore magna aliqua. Ut enim ad
-  - category: Silos
-    url: "#"
-    image: "/img/portfolio/maxxis_5.jpg"
-    name: MAXXIS 5
-    description: >
-      Labore et dolore magna aliqua. Ut enim ad
-  - category: Logística
-    url: "#"
-    image: "/img/portfolio/maxxis_5.jpg"
-    name: MAXXIS 5
-    description: >
-      Labore et dolore magna aliqua. Ut enim ad
-  - category: Logística
-    url: "#"
-    image: "/img/portfolio/maxxis_5.jpg"
-    name: MAXXIS 5
-    description: >
-      Labore et dolore magna aliqua. Ut enim ad
+      A
+
+### Software
   - category: Software
     url: "#"
-    image: "/img/portfolio/maxxis_5.jpg"
-    name: MAXXIS 5
+    image: "/img/products/maxxis_5.jpg"
+    name: Desktop Apps
     description: >
-      Labore et dolore magna aliqua. Ut enim ad
+      Aplicaciones de escritorio para sistemas de control local
   - category: Software
     url: "#"
-    image: "/img/portfolio/maxxis_5.jpg"
-    name: MAXXIS 5
+    image: "/img/products/maxxis_5.jpg"
+    name: Web apps
     description: >
-      Labore et dolore magna aliqua. Ut enim ad
+      Aplicaciones web conectadas al Cloud
 
 clients:
   - image: "/img/clients/clients-logo-1.jpg"
