@@ -63,7 +63,7 @@ theme = "bmauri-theme"
   [params.wrapper]
     enable = true
     title = "Nosotros"
-    italic = "Somos una empresa familiar cercana e íntima con el cliente. Destacamos por la proximidad y la profesionalidad con lo que hacemos las cosas."
+    italic = "Somos una empresa familiar cercana e íntima con el cliente. Destacamos por la proximidad y la profesionalidad con la que hacemos las cosas."
     paragraph = "Somos capaces de trabajar en entornos bien diferentes dentro de la industria del pesaje. Trabajamos tanto en la industria del pesaje logístico de transportes y mercaderías, desde el pesaje industrial en el sector alimentario y otros, a pesaje a nivel de laboratorio."
 
   [params.blog]
