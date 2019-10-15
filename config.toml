@@ -1,5 +1,5 @@
 title = "BMauri"
-baseURL = "" # "https://maguri.github.io/bmauri-website/"
+baseURL = "https://maguri.github.io/bmauri-website/"
 languageCode = "es-es"
 theme = "bmauri-theme"
 # icons = https://ionicons.com/v2/cheatsheet.html
