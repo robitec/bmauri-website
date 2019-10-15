@@ -1,40 +1,41 @@
 enable: true
-title: Fun Facts About Us
+title: Nuestros Clientes
 paragraph: >
-  Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics
+  Nuestra larga carrera en el sector y la continuidad de la empresa tras generaciones nos ha permitido forjar buenas relaciones con nuestros clientes.
+  Aquí algunas de sus opiniones sobre Básculas Mauri.
 
 numbers:
   - icon: ion-ios-chatboxes-outline
-    counter: 2000
-    text: Cups of Coffee
-  - icon: ion-ios-glasses-outline
-    counter: 2000
-    text: Cups of Coffee
-  - icon: ion-ios-compose-outline
-    counter: 2000
-    text: Cups of Coffee
+    counter: 2453
+    text: Agradecimientos
+  - icon: ion-ios-star-outline
+    counter: 35
+    text: Clientes estrella
+  - icon: ion-ios-people-outline
+    counter: 118
+    text: Clientes activos
   - icon: ion-ios-timer-outline
-    counter: 2000
-    text: Cups of Coffee
+    counter: 1200
+    text: Sistemas en funcionamiento
 
 people:
   - text: >
-      This Company created an e-commerce site with the tools to make our business a success, with innovative ideas we feel that our site has unique elements that make us stand out from the crowd.
-    image: img/item-img1.jpg
-    name: Rose Ray
-    role: CEO-Themefisher
+      Bàsculas Mauri es una empresa próxima y profesional y leal. Todos los proyectos me han dado buen resultado.
+    image: /img/item-img1.jpg
+    name: Carlos Bonastre
+    role: Agricoles Bonastre
   - text: >
-      This Company created an e-commerce site with the tools to make our business a success, with innovative ideas we feel that our site has unique elements that make us stand out from the crowd.
-    image: img/item-img1.jpg
-    name: Rose Ray
-    role: CEO-Themefisher
+      Germán es un tipo muy simpático y entrañable, y no es difícil tratar con él, hacer negocios y conseguir que todo funcione sin complicaciones.
+    image: /img/item-img1.jpg
+    name: Roser Ray
+    role: Cap de la Borges
   - text: >
-      This Company created an e-commerce site with the tools to make our business a success, with innovative ideas we feel that our site has unique elements that make us stand out from the crowd.
-    image: img/item-img1.jpg
-    name: Rose Ray
-    role: CEO-Themefisher
+      Básculas Mauri es una empresa familiar que se preocupa por el cliente y transmite ese compromiso directamente con su trabajo y labor profesional a la hora de implementar los proyectos.
+    image: /img/item-img1.jpg
+    name: Maria Estivill
+    role: Seller-Manager at Nestle
   - text: >
-      This Company created an e-commerce site with the tools to make our business a success, with innovative ideas we feel that our site has unique elements that make us stand out from the crowd.
-    image: img/item-img1.jpg
-    name: Rose Ray
-    role: CEO-Themefisher
+      Los tres hermanos són grandes personas, el personal de Básculas Mauri es familiar pero a la vez profesional. Trabajar con ellos es tarea fácil, y la libertad de comunicación que puedes tener con ellos te permite ser productivo y estar tranquilo.
+    image: /img/item-img1.jpg
+    name: Joan Lladó
+    role: Chef at Repsol

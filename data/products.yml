@@ -1,0 +1,125 @@
+enable: true
+title: Técnología de vanguardia.
+subtitle: Ofrecemos soluciones en el sector de la ingeniería con las más abanzadas tecnologías.
+
+all: Todo
+categories:
+  - category: Básculas
+  - category: Terminales
+  - category: Células
+  - category: Controladoras
+  - category: Software
+
+portfolio:
+
+### Terminales
+  - category: Básculas
+    url: "/products/terminal-maxxis-5"
+    image: "/img/products/bascula-plataforma.png"
+    name: B
+    description: >
+      N
+
+### Terminales
+  - category: Terminales
+    url: "/products/terminal-maxxis-5"
+    image: "/img/products/maxxis_5.jpg"
+    name: MAXXIS 5
+    description: >
+      Terminal programable Maxxis 5 de Minebea Intec
+
+### Células
+  - category: Células
+    url: "products/celula-inteco"
+    image: "/img/products/celula-inteco.png"
+    name: Célula Inteco®
+    description: >
+      Célula de carga de compresión para recipientes y Silos
+  - category: Células
+    url: "products/celula-silos-pr-6201"
+    image: "/img/products/celula-silos-pr-6201.png"
+    name: Recipientes y Silos
+    description: >
+      Célula de compresión y precisión PR-6201®
+  - category: Células
+    url: "products/celula-camion-pr-6221"
+    image: "/img/products/celula-camion-pr-6221.png"
+    name: Camiones
+    description: >
+      Célula de carga para básculas de camiones PR-6221®
+  - category: Células
+    url: "products/celula-contejo"
+    image: "/img/products/celula-contejo.png"
+    name: Módulo de pesaje
+    description: >
+      Diseño higiénico para recipientes
+  - category: Células
+    url: "products/celula-plataforma-sobremesa-suelo"
+    image: "/img/products/celula-mp-72.png"
+    name: Sobremesa
+    description: >
+      Básculas y máquinas de sobremesa y de suelo MP-72
+
+### Silos
+  - category: Silos
+    url: "#"
+    image: "/img/products/maxxis_5.jpg"
+    name: Silo
+    description: >
+      Labore et dolore magna aliqua. Ut enim ad
+
+### Controladoras
+  - category: Controladoras
+    url: "/products/controlador-cosynus"
+    image: "/img/products/controlador_cosynus.jpg"
+    name: Cosynus
+    description: >
+      Pesadora dinámica con detector de metales
+  - category: Controladoras
+    url: "/products/controlador-wm"
+    image: "/img/products/controlador_wm.jpg"
+    name: Módulos de pesaje WM
+    description: >
+      Módulo WM económico para productos pesados.
+  - category: Controladoras
+    url: "/products/controlador-flexus"
+    image: "/img/products/controlador_flexus.jpg"
+    name: Flexus® Combi
+    description: >
+      Labore et dolore magna aliqua. Ut enim ad
+
+### Software
+  - category: Software
+    url: "#"
+    image: "/img/products/software-app.png"
+    name: Desktop Apps
+    description: >
+      Aplicaciones de escritorio para sistemas de control local
+  - category: Software
+    url: "#"
+    image: "/img/products/software-app.png"
+    name: Web apps
+    description: >
+      Aplicaciones web conectadas al Cloud
+
+clients:
+  - image: "/img/clients/clients-logo-1.jpg"
+    url: "#"
+  - image: "/img/clients/clients-logo-2.jpg"
+    url: "#"
+  - image: "/img/clients/clients-logo-3.jpg"
+    url: "#"
+  - image: "/img/clients/clients-logo-4.jpg"
+    url: "#"
+  - image: "/img/clients/clients-logo-5.jpg"
+    url: "#"
+  - image: "/img/clients/clients-logo-6.jpg"
+    url: "#"
+  - image: "/img/clients/clients-logo-7.jpg"
+    url: "#"
+  - image: "/img/clients/clients-logo-8.jpg"
+    url: "#"
+  - image: "/img/clients/clients-logo-9.jpg"
+    url: "#"
+  - image: "/img/clients/clients-logo-10.jpg"
+    url: "#"
