@@ -1,43 +1,43 @@
 language: go
 
 go:
-  - 1.12
+- 1.12
 
 addons:
   apt:
     packages:
-      - python-pygments
+    - python-pygments
 
 env:
   global:
-    - COMMIT_AUTHOR_EMAIL: oriol.mauri@devcows.com
-    - ENCRYPTION_LABEL: 7adb43d426f2
+  - COMMIT_AUTHOR_EMAIL: oriol.mauri@devcows.com
+  - ENCRYPTION_LABEL: 7adb43d426f2
 
 before_install:
-  - export GOPATH=$HOME/go
-  - export PATH=$PATH:$GOPATH/bin
+- export GOPATH=$HOME/go
+- export PATH=$PATH:$GOPATH/bin
 
 install:
-  - go get -u github.com/magefile/mage
-  - go get -d github.com/gohugoio/hugo
-  - cd $HOME/go/src/github.com/gohugoio/hugo
-  - mage install
+- go get -u github.com/magefile/mage
+- go get -d github.com/gohugoio/hugo
+- cd $HOME/go/src/github.com/gohugoio/hugo
+- mage install
 
 before_script:
-  - mkdir $TRAVIS_BUILD_DIR/themes
-  - git clone --depth 1 https://github.com/maguri/bmauri-theme.git $TRAVIS_BUILD_DIR/themes/bmauri-theme/
+- mkdir $TRAVIS_BUILD_DIR/themes
+- git clone --depth 1 https://github.com/maguri/bmauri-theme.git $TRAVIS_BUILD_DIR/themes/bmauri-theme/
 
 script:
-  - hugo -s $TRAVIS_BUILD_DIR
-# - echo "www.bmauri.com" >> $TRAVIS_BUILD_DIR/public/CNAME
+- hugo -s $TRAVIS_BUILD_DIR
 
 deploy:
   provider: pages
   skip_cleanup: true
   local_dir: public
-  github_token: $GITHUB_TOKEN
+  github_token: "$GITHUB_TOKEN"
   on:
     branch: master
 
 notifications:
-  slack: devcows:bJqjHDL6xXdgga0I5r0yzM7z
+  slack:
+    secure: lV1zlbVbRQzia4eCGw2YqGKosouKA1hWx1REt8MAFwj/KNUeEV5RDXdzNtxhiFtfOy9r7N2tF7O1f9FpnuPnzp8mFOng1HHMOwnCG+D/eiPHpGxWO0n0a5Xa5o+AQc1SJyESv3N47pQnG/wof+xTJqi8RlFZNW+st90IVwukSs+1vBxQOqc0kD3lbOyqeRjyaj7kJD3B0DNk8jHYhkwyOYlhi3Ffwd6+SWKIR2leHu31uOJMqk0mLETv1FCYNhylP3nUVMtSWT0gOWFavXINrTiQMOFkqDJIEHJU3S+afWmvcGtoxKjhmeL0yKaiwizvXv0YOqlXN4nTqLM2BNzL91CWKnbLZ+OoCJUgwxP04IoWu09+Tbfc5v45fxqT7nD3eYdpDC9FHDem/r4tbJin5PhQMdM+Mxb3kyKNcqf+wfEQd9Nm1tHCqA+3xfVfdaqWck+hxJX8M89Ugr0FCAQhIuJF/9rfOoBDYQ/Wjy+Myl3SfzFG1DMhyCtWNgSz9iNuWTuJ0QBZhUJqJNNFdytia0UcNxSd2xD1UxZWnBPlHVyOAPtr2t0e63ik+I4QPkGoqae/M1hLfiTR7w9vO2NPTYkNVaZrX1U7ncd01VP5yb2lP1SCq8n+FhR+C3Uvgzb23vA9mdbd8fADRHjorKYlLfkMl+ULEsGN29i0o/kGXbM=
