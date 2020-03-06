@@ -1,4 +1,0 @@
-+++
-title = "Productos"
-id = "products"
-+++
