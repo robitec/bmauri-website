@@ -12,7 +12,7 @@ summaryLength = "30"
 # disqus short name
 disqusShortname = "" # get your shortname form here : https://disqus.com
 # disable language
-disableLanguages = ['en', 'fr', 'cat']
+disableLanguages = ['fr', 'cat']
 
 
 #################################### Plugins ##############################
@@ -43,64 +43,64 @@ link = "plugins/shuffle/shuffle.min.js"
 
 # main menu
 [[menu.main]]
-name = "About"
+name = "about"
 URL = "about"
 weight = 1
 
 [[menu.main]]
-name = "Project"
+name = "project"
 URL = "project"
 weight = 2
 
 [[menu.main]]
-name = "Service"
+name = "service"
 URL = "service"
 weight = 3
 
 [[menu.main]]
-name = "Blog"
+name = "blog"
 URL = "blog"
 weight = 4
 
 [[menu.main]]
 weight = 5
-name = "Pages"
+name = "pages"
 hasChildren = true
 
   [[menu.main]]
-  parent = "Pages"
+  parent = "pages"
   name = "FAQ"
   URL = "faq"
 
   [[menu.main]]
-  parent = "Pages"
-  name = "Pricing"
+  parent = "pages"
+  name = "pricing"
   URL = "pricing"
 
 [[menu.main]]
-name = "Contact"
+name = "contact"
 URL = "contact"
 weight = 6
 
 
 # footer menu
 [[menu.footer]]
-name = "About"
+name = "about"
 URL = "about"
 weight = 1
 
 [[menu.footer]]
-name = "Project"
+name = "project"
 URL = "project"
 weight = 2
 
 [[menu.footer]]
-name = "Service"
+name = "service"
 URL = "service"
 weight = 3
 
 [[menu.footer]]
-name = "Pricing"
+name = "pricing"
 URL = "pricing"
 weight = 4
 
@@ -110,7 +110,7 @@ URL = "faq"
 weight = 5
 
 [[menu.footer]]
-name = "Contact"
+name = "contact"
 URL = "contact"
 weight = 6
 

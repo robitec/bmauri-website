@@ -1,7 +1,7 @@
 ########################### about service #############################
 about:
   enable : true
-  title : "Creative UX/UI Design Agency"
+  title : "Comprometidos con el cliente"
   content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptate soluta corporis odit, optio
           cum! Accusantium numquam ab, natus excepturi architecto earum ipsa aliquam, illum, omnis rerum, eveniet
           officia nihil. Eum quod iure nulla, soluta architecto distinctio. Nesciunt odio ullam expedita, neque fugit
@@ -18,71 +18,110 @@ featured_service:
   enable : true
   service_item:
     # featured service item loop
-    - name : "Interface Design"
-      icon : "ion-erlenmeyer-flask"
+    - name : "Diseño de producto"
+      icon : "ion-easel"
       color : "primary"
-      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Saepe enim impedit repudiandae omnis est temporibus."
-      
-    # featured service item loop
-    - name : "Product Branding"
-      icon : "ion-leaf"
-      color : "primary-dark"
-      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Saepe enim impedit repudiandae omnis est temporibus."
-      
-    # featured service item loop
-    - name : "Game Development"
-      icon : "ion-lightbulb"
-      color : "primary-darker"
-      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Saepe enim impedit repudiandae omnis est temporibus."
+      content : "Con expertos en el sector de la ingeniería industrial, diseñamos soluciones a los requerimientos del sector."
 
-      
+    # featured service item loop
+    - name : "Proveedores de confianza"
+      icon : "ion-ribbon-b"
+      color : "primary-dark"
+      content : "Siendo parners oficiales de Mineba Intec® con varios distribuidores, ofrecemos productos certificados de calidad."
+
+    # featured service item loop
+    - name : "Insalaciones y Mantenimiento"
+      icon : "ion-gear-a"
+      color : "primary-darker"
+      content : "Caracterizados por el servicio técnico, ofrefemos mantenimiento y assistencia a nuestros clientes."
+
+
 ############################# Service ###############################
 service:
   enable : true
-  title : "Our Services"
-  description : "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, <br> there live the
-          blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics"
+  title : "Servicios"
+  description : "Ofrecemos soluciones para empresas de qualquier sector que necesiten instalar, mantener o automatizar sistemas de pesaje."
+
   service_item:
     # service item loop
-    - icon : ion-coffee #ionicon pack v2 : https://ionicons.com/v2/ #ionicon pack v2 : https://ionicons.com/v2/
-      name: Branding
-      content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut"
 
-    # service item loop
-    - icon : ion-compass #ionicon pack v2 : https://ionicons.com/v2/ #ionicon pack v2 : https://ionicons.com/v2/
-      name: Web Design
-      content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut"
+    - icon: ion-ios-paper
+      name: Calibraciones
+      content: >
+        Certificacion ENAC, Calibraciones de Masa, Volumen y Temperatura.
+      link:
+        path: /blog/calibraciones-enac
+        text_link: Saber más
+    - icon: ion-android-desktop
+      name: Sistemas Informáticos
+      content: >
+        Software personalizado a las necesidades del cliente.
+    - icon: ion-settings
+      name: Mantenimiento
+      content: >
+        Reparaciones, Mantenimiento y Substituciones.
+    - icon: ion-ios-lightbulb
+      name: I+D
+      content: >
+        Investigación y Desarrollo de productos a medida.
 
-    # service item loop
-    - icon : ion-image #ionicon pack v2 : https://ionicons.com/v2/ #ionicon pack v2 : https://ionicons.com/v2/
-      name: App Design
-      content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut"
 
-    # service item loop
-    - icon : ion-bug #ionicon pack v2 : https://ionicons.com/v2/ #ionicon pack v2 : https://ionicons.com/v2/
-      name: Start Up
-      content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut"
+    - icon: ion-android-car
+      name: Transporte y Logística
+      content: >
+        Básculas de camiones y sistemas de pesaje de gran tonelaje.
+    - icon: ion-android-cart
+      name: alimentación
+      content: >
+        Instalaciones para la industria alimentaria certificadas HACCP
+    - icon: ion-android-boat
+      name: Puertos y Aeropuertos
+      content: >
+        Pesaje de contenedores, control y monitorización de las cargas.
+    - icon: ion-ios-flask
+      name: Químicas
+      content: >
+        Implementación de soluciones en la Industraia química.
 
-    # service item loop
-    - icon : ion-headphone #ionicon pack v2 : https://ionicons.com/v2/ #ionicon pack v2 : https://ionicons.com/v2/
-      name: Logo Design
-      content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut"
+    - icon: ion-android-walk
+      name: Control de Accesos
+      content: >
+        Instalaciones de control de entradas y salidas.
 
-    # service item loop
-    - icon : ion-leaf #ionicon pack v2 : https://ionicons.com/v2/ #ionicon pack v2 : https://ionicons.com/v2/
-      name: Development
-      content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut"
+    - icon: ion-cube
+      name: Dimensionado 3D
+      content: >
+        Software especializado en el calculo y dimensionado volumétrico.
 
-    # service item loop
-    - icon : ion-planet #ionicon pack v2 : https://ionicons.com/v2/ #ionicon pack v2 : https://ionicons.com/v2/
-      name: Brand Identity
-      content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut"
+    - icon: ion-stats-bars
+      name: Analítica
+      content: >
+        Recogida de datos y análisis de producción
 
-    # service item loop
-    - icon : ion-earth #ionicon pack v2 : https://ionicons.com/v2/ #ionicon pack v2 : https://ionicons.com/v2/
-      name: Brand Identity
-      content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut"
-      
+    - icon: ion-pull-request
+      name: Trazabilidad
+      content: Trazabilidad de producción por etiquasdasda
+
+    - icon: ion-qr-scanner
+      name: Scanner
+      content: >
+        Lectores QR i codigo de barras
+
+    - icon: ion-funnel
+      name: Silos & IBC
+      content: >
+        Sistemas automático de llenados líquidos en silos
+    - icon: ion-ios-calculator
+      name: PLCs
+      content: >
+        Software y Hardware dinámico y escalable.
+
+    - icon: ion-printer
+      name: Etiquetadoras
+      content: >
+        Etiquetage en continuo con impresoras SATO y VA.
+
+
 ############################# call to action #################################
 cta:
   enable : true
