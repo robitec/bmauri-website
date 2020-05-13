@@ -18,3 +18,20 @@
   translation: Posted By
 - id: read_more
   translation: Continue Reading
+  # main header/footer
+- id: pages
+  translation: Soluciones
+- id: blog
+  translation: Proyectos
+- id: FAQ
+  translation: FAQ
+- id: about
+  translation: Nosotros
+- id: project
+  translation: Recursos
+- id: service
+  translation: Servicios
+- id: pricing
+  translation: Plataformas
+- id: contact
+  translation: Contacto

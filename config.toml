@@ -12,7 +12,7 @@ summaryLength = "30"
 # disqus short name
 disqusShortname = "" # get your shortname form here : https://disqus.com
 # disable language
-disableLanguages = ['fr', 'cat']
+disableLanguages = ['en', 'fr', 'cat']
 
 
 #################################### Plugins ##############################
@@ -57,25 +57,25 @@ name = "service"
 URL = "service"
 weight = 3
 
-[[menu.main]]
-name = "blog"
-URL = "blog"
-weight = 4
+# [[menu.main]]
+# name = "blog"
+# URL = "blog"
+# weight = 4
 
-[[menu.main]]
-weight = 5
-name = "pages"
-hasChildren = true
-
-  [[menu.main]]
-  parent = "pages"
-  name = "FAQ"
-  URL = "faq"
-
-  [[menu.main]]
-  parent = "pages"
-  name = "pricing"
-  URL = "pricing"
+# [[menu.main]]
+# weight = 5
+# name = "pages"
+# hasChildren = true
+#
+#   [[menu.main]]
+#   parent = "pages"
+#   name = "FAQ"
+#   URL = "faq"
+#
+#   [[menu.main]]
+#   parent = "pages"
+#   name = "pricing"
+#   URL = "pricing"
 
 [[menu.main]]
 name = "contact"
@@ -99,15 +99,15 @@ name = "service"
 URL = "service"
 weight = 3
 
-[[menu.footer]]
-name = "pricing"
-URL = "pricing"
-weight = 4
-
-[[menu.footer]]
-name = "FAQ"
-URL = "faq"
-weight = 5
+# [[menu.footer]]
+# name = "pricing"
+# URL = "pricing"
+# weight = 4
+#
+# [[menu.footer]]
+# name = "FAQ"
+# URL = "faq"
+# weight = 5
 
 [[menu.footer]]
 name = "contact"
@@ -143,7 +143,7 @@ enable = true
 # Navigation get start button
 [params.nav_button]
 enable = true
-label = "Get A Quote"
+label = "Llamar"
 link = "contact"
 
 # google map
