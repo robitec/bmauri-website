@@ -1,23 +1,26 @@
 ---
-title: "Rio Furniture"
-description: "this is meta description"
+title: "Soluciones COVID-19"
+description: "últimas tecnologías contra el virus"
 draft: false
-image : "images/portfolio/work2.jpg"
+image : "images/portfolio/work5.jpg"
 bg_image: "images/featue-bg.jpg"
-category: "Illustration"
+category: "nuevo"
+video: >
+  <div class="embed-responsive embed-responsive-16by9">
+    <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/XhJqIp8VL6Q" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  </div>
+
 information:
-  - label : "Client"
-    info : "Jannie Kelonsky"
-  - label : "What We Did"
-    info : "Website Redesign"
-  - label : "Tools Used"
-    info : "Photoshop,Illustrator"
-  - label : "Completed on"
-    info : "17th March 2014"
-  - label : "Skills"
-    info : "HTML5 / PHP / CSS3"
-  - label : "Client"
-    info : "Jannie Kelonsky"
+  - label : "Empresa"
+    info : "© Sartorius AG"
+  - label : "Nosotros"
+    info : "Comerciales España"
+  - label : "Actualización"
+    info : "2020"
+  - label : "Función"
+    info : "Distribuidor"
+  - label : "Web oficial"
+    info : "[sartorius](https://www.sartorius.com)"
 ---
 
 ## Behance Website Redesign

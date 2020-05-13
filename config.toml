@@ -43,74 +43,74 @@ link = "plugins/shuffle/shuffle.min.js"
 
 # main menu
 [[menu.main]]
-name = "About"
+name = "about"
 URL = "about"
 weight = 1
 
 [[menu.main]]
-name = "Project"
+name = "project"
 URL = "project"
 weight = 2
 
 [[menu.main]]
-name = "Service"
+name = "service"
 URL = "service"
 weight = 3
 
-[[menu.main]]
-name = "Blog"
-URL = "blog"
-weight = 4
+# [[menu.main]]
+# name = "blog"
+# URL = "blog"
+# weight = 4
+
+# [[menu.main]]
+# weight = 5
+# name = "pages"
+# hasChildren = true
+#
+#   [[menu.main]]
+#   parent = "pages"
+#   name = "FAQ"
+#   URL = "faq"
+#
+#   [[menu.main]]
+#   parent = "pages"
+#   name = "pricing"
+#   URL = "pricing"
 
 [[menu.main]]
-weight = 5
-name = "Pages"
-hasChildren = true
-
-  [[menu.main]]
-  parent = "Pages"
-  name = "FAQ"
-  URL = "faq"
-
-  [[menu.main]]
-  parent = "Pages"
-  name = "Pricing"
-  URL = "pricing"
-
-[[menu.main]]
-name = "Contact"
+name = "contact"
 URL = "contact"
 weight = 6
 
 
 # footer menu
 [[menu.footer]]
-name = "About"
+name = "about"
 URL = "about"
 weight = 1
 
 [[menu.footer]]
-name = "Project"
+name = "project"
 URL = "project"
 weight = 2
 
 [[menu.footer]]
-name = "Service"
+name = "service"
 URL = "service"
 weight = 3
 
-[[menu.footer]]
-name = "Pricing"
-URL = "pricing"
-weight = 4
+# [[menu.footer]]
+# name = "pricing"
+# URL = "pricing"
+# weight = 4
+#
+# [[menu.footer]]
+# name = "FAQ"
+# URL = "faq"
+# weight = 5
 
 [[menu.footer]]
-name = "FAQ"
-URL = "faq"
-weight = 5
-
-[[menu.footer]]
-name = "Contact"
+name = "contact"
 URL = "contact"
 weight = 6
 
@@ -143,7 +143,7 @@ enable = true
 # Navigation get start button
 [params.nav_button]
 enable = true
-label = "Get A Quote"
+label = "Llamar"
 link = "contact"
 
 # google map
