@@ -6,11 +6,10 @@ about:
   image3 : "images/company/history.jpg"
 
   title : "La experiencia de los años"
-  content : "Básculas Mauri es una empresa dedicada al sector del pesaje desde 19XX, . Fué fundada por.
+  content : "Básculas Mauri es una empresa dedicada al sector del pesaje desde mediados de los 80, con una experiencia en el sector de más de 50 años. Fué fundada por Germán Mauri Pla y sus tres hijos que siguen con la misma filosofía y valores.
 
-          Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nam qui vel cupiditate exercitationem, ea fuga est
-          velit nulla culpa modi quis iste tempora non, suscipit repellendus labore voluptatem dicta amet? Lorem ipsum
-          dolor sit amet, consectetur adipisicing elit. Provident, neque!"
+
+          Destaca la experiencia en el sector, el trato humano y la valor de las cosas bien hechas. Trabajando con grandes y pequeñas empresas, proveemos de servicios técnicos son marcas como Sartorius, Minebea, Dini Argeo, Rice Laker, y durante muchos años siendo el máximo proveedor de Metler Toledo en España."
 
   button:
     enable : true
@@ -19,69 +18,68 @@ about:
 
   funfacts:
     # funfacts loop
-    - icon : "ion-ios-flask-outline" #ionicon pack v2 : https://ionicons.com/v2/
+    - icon : "ion-ios-people-outline" #ionicon pack v2 : https://ionicons.com/v2/
       name : "Clientes"
       count : "349"
 
     # funfacts loop
-    - icon : "ion-ios-flame-outline" #ionicon pack v2 : https://ionicons.com/v2/
-      name : "Empleados"
-      count : "35000"
+    - icon : "ion-document-text" #ionicon pack v2 : https://ionicons.com/v2/
+      name : "Certificaciones"
+      count : "5000"
 
     # funfacts loop
-    - icon : "ion-ios-pint-outline" #ionicon pack v2 : https://ionicons.com/v2/
-      name : "Instalaciones"
-      count : "70"
+    - icon : "ion-person-add" #ionicon pack v2 : https://ionicons.com/v2/
+      name : "Partners"
+      count : "5"
 
     # funfacts loop
-    - icon : "ion-ios-wineglass-outline" #ionicon pack v2 : https://ionicons.com/v2/
+    - icon : "ion-ios-calendar-outline" #ionicon pack v2 : https://ionicons.com/v2/
       name : "Fundación"
-      count : "1920"
-
-
-    # funfacts loop
-    - icon : "ion-ios-chatboxes-outline" #ionicon pack v2 : https://ionicons.com/v2/
-      name : "Satisfied Customer"
-      count : "75"
+      count : "1985"
 
     # funfacts loop
-    - icon : "ion-ios-body-outline" #ionicon pack v2 : https://ionicons.com/v2/
-      name : "Awards Winner"
-      count : "20"
+    - icon : "ion-earth" #ionicon pack v2 : https://ionicons.com/v2/
+      name : "Paises"
+      count : "8"
+
+    # funfacts loop
+    - icon : "ion-ios-lightbulb-outline" #ionicon pack v2 : https://ionicons.com/v2/
+      name : "I+D"
+      count : "3"
 
 ################################ feature #####################################
 features:
   enable : true
-  title : "We are indepented Design & Development Agency"
+  title : "Nuestros Departamentos"
   feature_item:
     # feature item loop
-    - icon : "ion-ios-color-filter-outline" #ionicon pack v2 : https://ionicons.com/v2/
-      name : "IOS App Development"
-      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut"
+    - icon : "ion-ios-box-outline" #ionicon pack v2 : https://ionicons.com/v2/
+      name : "Ventas"
+      content : "Ofrecemos Productos de gama Alta adaptada a las peticiones del Cliente"
 
     # feature item loop
-    - icon : "ion-ios-unlocked-outline" #ionicon pack v2 : https://ionicons.com/v2/
-      name : "App Secutity"
-      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut"
+    - icon : "ion-document" #ionicon pack v2 : https://ionicons.com/v2/
+      name : "Certificadores Oficiales"
+      content : "Certificamos equipos con ENAC. Desde Laboratorios a básculas ferroviarias"
 
     # feature item loop
-    - icon : "ion-ios-game-controller-b-outline" #ionicon pack v2 : https://ionicons.com/v2/
-      name : "Games Development"
-      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut"
-
-    # feature item loop
-    - icon : "ion-ios-mic-outline" #ionicon pack v2 : https://ionicons.com/v2/
-      name : "Animation and Editing"
-      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut"
+    - icon : "ion-ios-person-outline" #ionicon pack v2 : https://ionicons.com/v2/
+      name : "Servicio Técnico"
+      content : "Equipo Técnico preparado para Soporte y Reparaciones"
 
     # feature item loop
     - icon : "ion-ios-lightbulb-outline" #ionicon pack v2 : https://ionicons.com/v2/
-      name : "UI/UX Design"
+      name : "Departamento de Ingeniería"
+      content : "Diseñamos soluciones a Medida para el Cliente"
+
+    # feature item loop
+    - icon : "ion-android-desktop" #ionicon pack v2 : https://ionicons.com/v2/
+      name : "Departamento de Informática"
       content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut"
 
     # feature item loop
-    - icon : "ion-ios-star-outline" #ionicon pack v2 : https://ionicons.com/v2/
-      name : "Branding"
+    - icon : "ion-hammer" #ionicon pack v2 : https://ionicons.com/v2/
+      name : "Departamento de Mecánica"
       content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut"
 
 
@@ -105,7 +103,7 @@ mission_vision:
       temporibus eos sequi alias hic nemo."
 
     # tab item loop
-    - name : "Mission"
+    - name : "Objetivo"
       content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Inventore nobis ducimus facere repellat
       harum, eius cupiditate, aliquam aut deserunt. Nemo illo ex impedit autem quod nobis architecto, velit
       quasi, aut voluptas porro natus. Fuga magnam perspiciatis fugit, placeat possimus officia non ducimus

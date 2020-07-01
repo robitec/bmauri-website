@@ -33,14 +33,14 @@ featured_service:
     - name : "Insalaciones y Mantenimiento"
       icon : "ion-gear-a"
       color : "primary-darker"
-      content : "Caracterizados por el servicio técnico, ofrefemos mantenimiento y assistencia a nuestros clientes."
+      content : "Caracterizados por el servicio técnico, ofrefemos mantenimiento y assistencia a empresas y particulares."
 
 
 ############################# Service ###############################
 service:
   enable : true
   title : "Servicios"
-  description : "Ofrecemos soluciones para empresas de qualquier sector que necesiten instalar, mantener o automatizar sistemas de pesaje."
+  description : "Ofrecemos soluciones para empresas de qualquier sector que necesiten instalar, certificar, mantener o mejorar sistemas de pesaje."
 
   service_item:
     # service item loop

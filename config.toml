@@ -12,7 +12,7 @@ summaryLength = "30"
 # disqus short name
 disqusShortname = "" # get your shortname form here : https://disqus.com
 # disable language
-disableLanguages = ['fr', 'cat']
+disableLanguages = ['en', 'fr', 'cat']
 
 
 #################################### Plugins ##############################
@@ -56,7 +56,6 @@ weight = 2
 name = "service"
 URL = "service"
 weight = 3
-
 
 # [[menu.main]]
 # name = "blog"

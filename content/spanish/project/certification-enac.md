@@ -2,7 +2,7 @@
 title: "Calibraciones Enac"
 description: "this is meta description"
 draft: false
-image : "images/portfolio/work3.jpg"
+image : "images/portfolio/enac.jpg"
 bg_image: "images/featue-bg.jpg"
 category: "certificaciones"
 information:
