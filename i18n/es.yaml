@@ -21,7 +21,7 @@
 
 # main header/footer
 - id: pages
-  translation: Soluciones Industriales
+  translation: Soluciones
 - id: blog
   translation: Proyectos
 - id: FAQ
@@ -29,7 +29,7 @@
 - id: about
   translation: Nosotros
 - id: project
-  translation: Tecnologías
+  translation: Recursos
 - id: service
   translation: Servicios
 - id: pricing
