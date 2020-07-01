@@ -6,12 +6,10 @@ about:
   image3 : "images/company/history.jpg"
 
   title : "La experiencia de los años"
-  content : "Básculas Mauri es una empresa dedicada al sector del pesaje desde 19XX, . Fué fundada por.
+  content : "Básculas Mauri es una empresa dedicada al sector del pesaje desde mediados de los 80, con una experiencia en el sector de más de 50 años. Fué fundada por Germán Mauri Pla y sus tres hijos que siguen con la misma filosofía y valores.
 
 
-          Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nam qui vel cupiditate exercitationem, ea fuga est
-          velit nulla culpa modi quis iste tempora non, suscipit repellendus labore voluptatem dicta amet? Lorem ipsum
-          dolor sit amet, consectetur adipisicing elit. Provident, neque!"
+          Destaca la experiencia en el sector, el trato humano y la valor de las cosas bien hechas. Trabajando con Grandes y pequeñas empresas, proveemos de servicios técnicos son marcas como Sartorius, Minebea, Dini Argeo, Rice Laker, y durante muchos años siendo el máximo proveedor de Metler Toledo en España."
 
   button:
     enable : true
@@ -52,36 +50,36 @@ about:
 ################################ feature #####################################
 features:
   enable : true
-  title : "We are indepented Design & Development Agency"
+  title : "Nuestros Departamentos"
   feature_item:
     # feature item loop
     - icon : "ion-ios-color-filter-outline" #ionicon pack v2 : https://ionicons.com/v2/
-      name : "IOS App Development"
-      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut"
+      name : "Servicio de Venta"
+      content : "Ofrecemos Productos de gama Alta adaptada a las peticiones del Cliente"
 
     # feature item loop
     - icon : "ion-ios-unlocked-outline" #ionicon pack v2 : https://ionicons.com/v2/
-      name : "App Secutity"
-      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut"
+      name : "Certificadores Oficiales"
+      content : "Certificamos equipos con ENAC. Desde Laboratorios a básculas ferroviarias"
 
     # feature item loop
     - icon : "ion-ios-game-controller-b-outline" #ionicon pack v2 : https://ionicons.com/v2/
-      name : "Games Development"
-      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut"
+      name : "Servicio Técnico"
+      content : "Equipo Técnico preparado para Soporte y Reparaciones"
 
     # feature item loop
     - icon : "ion-ios-mic-outline" #ionicon pack v2 : https://ionicons.com/v2/
-      name : "Animation and Editing"
-      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut"
+      name : "Departamento de Ingeniería"
+      content : "Diseñamos soluciones a Medida para el Cliente"
 
     # feature item loop
     - icon : "ion-ios-lightbulb-outline" #ionicon pack v2 : https://ionicons.com/v2/
-      name : "UI/UX Design"
+      name : "Departamento de Informática"
       content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut"
 
     # feature item loop
     - icon : "ion-ios-star-outline" #ionicon pack v2 : https://ionicons.com/v2/
-      name : "Branding"
+      name : "Departamento de Mecánica"
       content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut"
 
 
