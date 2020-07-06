@@ -7,15 +7,15 @@ sections:
 - type: heading
   label: Blog Post
 - type: directory
-  path: exampleSite/content/english/blog
+  path: bmauri-website/content/english/blog
   label: Post (en)
   create: documents
   match: "**/*"
   templates:
   - post
 - type: directory
-  path: exampleSite/content/french/blog
-  label: Post (fr)
+  path: bmauri-website/content/spanish/blog
+  label: Post (es)
   create: documents
   match: "**/*"
   templates:
@@ -23,15 +23,15 @@ sections:
 - type: heading
   label: Author
 - type: directory
-  path: exampleSite/content/english/author
+  path: bmauri-website/content/english/author
   label: Author (en)
   create: documents
   match: "**/*"
   templates:
   - author
 - type: directory
-  path: exampleSite/content/french/author
-  label: Author (fr)
+  path: bmauri-website/content/spanish/author
+  label: Author (es)
   create: documents
   match: "**/*"
   templates:
@@ -39,15 +39,15 @@ sections:
 - type: heading
   label: Project
 - type: directory
-  path: exampleSite/content/english/project
+  path: bmauri-website/content/english/project
   label: Project (en)
   create: documents
   match: "**/*"
   templates:
   - project
 - type: directory
-  path: exampleSite/content/french/project
-  label: Project (fr)
+  path: bmauri-website/content/spanish/project
+  label: Project (es)
   create: documents
   match: "**/*"
   templates:
@@ -55,79 +55,79 @@ sections:
 - type: heading
   label: Others Pages
 - type: directory
-  path: exampleSite/content/english/about
+  path: bmauri-website/content/english/about
   label: About (en)
   create: none
   match: "*"
 - type: directory
-  path: exampleSite/content/french/about
-  label: About (fr)
+  path: bmauri-website/content/spanish/about
+  label: About (es)
   create: none
   match: "*"
 - type: directory
-  path: exampleSite/content/english/service
+  path: bmauri-website/content/english/service
   label: Service (en)
   create: none
   match: "*"
 - type: directory
-  path: exampleSite/content/french/service
-  label: Service (fr)
+  path: bmauri-website/content/spanish/service
+  label: Service (es)
   create: none
   match: "*"
 - type: directory
-  path: exampleSite/content/english/pricing
+  path: bmauri-website/content/english/pricing
   label: Pricing (en)
   create: none
   match: "*"
 - type: directory
-  path: exampleSite/content/french/pricing
-  label: Pricing (fr)
+  path: bmauri-website/content/spanish/pricing
+  label: Pricing (es)
   create: none
   match: "*"
 - type: directory
-  path: exampleSite/content/english/faq
+  path: bmauri-website/content/english/faq
   label: FAQ (en)
   create: none
   match: "*"
 - type: directory
-  path: exampleSite/content/french/faq
-  label: FAQ (fr)
+  path: bmauri-website/content/spanish/faq
+  label: FAQ (es)
   create: none
   match: "*"
 - type: directory
-  path: exampleSite/content/english/contact
+  path: bmauri-website/content/english/contact
   label: Contact (en)
   create: none
   match: "*"
 - type: directory
-  path: exampleSite/content/french/contact
-  label: Contact (fr)
+  path: bmauri-website/content/spanish/contact
+  label: Contact (es)
   create: none
   match: "*"
 - type: directory
-  path: exampleSite/content/english/pages
+  path: bmauri-website/content/english/pages
   label: Created Pages (en)
   create: documents
   match: "**/*"
   templates:
   - new-page
 - type: directory
-  path: exampleSite/content/french/pages
-  label: Created Pages (fr)
+  path: bmauri-website/content/spanish/pages
+  label: Created Pages (es)
   create: all
   match: "**/*"
   templates:
   - new-page
 - type: directory
-  path: exampleSite/content/english
+  path: bmauri-website/content/english
   label: All Pages (en)
   create: all
   match: "**/*"
   templates:
   - new-page
 - type: directory
-  path: exampleSite/content/french
-  label: All Pages (fr)
+  path: bmauri-website/content/spanish
+  label: All Pages (es)
   create: all
   match: "**/*"
   templates:
@@ -135,29 +135,29 @@ sections:
 - type: heading
   label: Data
 - type: directory
-  path: exampleSite/data/en
+  path: bmauri-website/data/en
   label: Data (en)
   create: all
   match: "**/*"
 - type: directory
-  path: exampleSite/data/fr
-  label: Data (fr)
+  path: bmauri-website/data/es
+  label: Data (es)
   create: all
   match: "**/*"
 - type: directory
-  path: exampleSite/i18n
+  path: bmauri-website/i18n
   label: i18n
   create: documents
   match: "**/*"
 - type: heading
   label: Configuration
 - type: directory
-  path: exampleSite
+  path: bmauri-website
   label: Configuration
   create: all
   match: "*.toml"
   new_doc_ext: toml
-upload_dir: exampleSite/static/images
+upload_dir: bmauri-website/static/images
 public_path: "/images"
 front_matter_path: ''
 use_front_matter_path: false
