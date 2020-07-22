@@ -144,7 +144,7 @@ enable = true
 [params.nav_button]
 enable = true
 label = "Llamar"
-link = "contact"
+link = "tel:+34902212085"
 
 # google map
 [params.gmap]

@@ -49,8 +49,9 @@ cta:
   Distinguir las características de cada proyecto va más allá de los catálogos."
   button:
     enable : true
-    label : "Llamenos sin compromiso"
-    link : "contact"
+    label : "  Llamenos sin compromiso"
+    phone : "+34902212085"
+    icon: ion-ios-telephone-outline
 
 ############################# Funfacts ###############################
 funfacts:
