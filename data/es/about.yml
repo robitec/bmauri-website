@@ -16,6 +16,27 @@ about:
     label : "Historia completa"
     link : "#"
 
+  ### clients
+
+  clients:
+    - image: "/images/clients/clients-logo-1.jpg"
+    - image: "/images/clients/clients-logo-2.jpg"
+    - image: "/images/clients/clients-logo-3.jpg"
+    - image: "/images/clients/clients-logo-16.jpg"
+    - image: "/images/clients/clients-logo-8.jpg"
+    - image: "/images/clients/clients-logo-9.jpg"
+    - image: "/images/clients/clients-logo-10.jpg"
+    - image: "/images/clients/clients-logo-11.jpg"
+    - image: "/images/clients/clients-logo-12.jpg"
+    - image: "/images/clients/clients-logo-14.jpg"
+    - image: "/images/clients/clients-logo-15.jpg"
+    - image: "/images/clients/clients-logo-4.jpg"
+    - image: "/images/clients/clients-logo-5.jpg"
+    - image: "/images/clients/clients-logo-6.jpg"
+    - image: "/images/clients/clients-logo-13.jpg"
+    - image: "/images/clients/clients-logo-7.jpg"
+    - image: "/images/clients/clients-logo-17.jpg"
+
   funfacts:
     # funfacts loop
     - icon : "ion-ios-people-outline" #ionicon pack v2 : https://ionicons.com/v2/
@@ -130,26 +151,3 @@ cta:
   enable : false
   # call to action content comes from "data/*/homepage.yml"
 
-### clients
-
-clients:
-  - image: "/img/clients/clients-logo-1.jpg"
-    url: "#"
-  - image: "/img/clients/clients-logo-2.jpg"
-    url: "#"
-  - image: "/img/clients/clients-logo-3.jpg"
-    url: "#"
-  - image: "/img/clients/clients-logo-4.jpg"
-    url: "#"
-  - image: "/img/clients/clients-logo-5.jpg"
-    url: "#"
-  - image: "/img/clients/clients-logo-6.jpg"
-    url: "#"
-  - image: "/img/clients/clients-logo-7.jpg"
-    url: "#"
-  - image: "/img/clients/clients-logo-8.jpg"
-    url: "#"
-  - image: "/img/clients/clients-logo-9.jpg"
-    url: "#"
-  - image: "/img/clients/clients-logo-10.jpg"
-    url: "#"
