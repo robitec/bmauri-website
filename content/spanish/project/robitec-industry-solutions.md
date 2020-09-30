@@ -7,6 +7,10 @@ bg_image: "/images/portfolio/robitec-logo.png"
 category: "partners"
 subtitle: "Detalles"
 
+video: >
+  <div class="embed-responsive embed-responsive-16by9">
+    <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/oM80RtKOiOs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  </div>
 information:
   - label : "Empresa"
     info : "Robitec Industry Solutions©"
@@ -23,7 +27,7 @@ content: >
   <div class="row">
     <div class="col-md-8">
       <div class="project-content mt-50">
-        Tenemos una colaboración comercial con Robitec Industry Solutions para ofrecer a nuestros clientes soluciones a medida que requieran la tecnología de última generación. Aportamos Software a medida con las tecnologías programables de y los recursos de Robitec Industry Solutions que junto con otros productos por toda España.
+        Tenemos una colaboración comercial con Robitec Industry Solutions para ofrecer a nuestros clientes soluciones de software a medida que requieran la tecnología de última generación. Aportamos Software a medida con las tecnologías programables de y los recursos de Robitec Industry Solutions que junto con otros productos por toda España.
       </div>
     </div>
     <div class="col-md-4">
