@@ -7,7 +7,7 @@ bg_image: "images/featue-bg.jpg"
 categories: ["Artificial Intelligence"]
 tags: ["Advice","Retro"]
 description: "this is meta description"
-draft: false
+draft: true
 type: "post"
 ---
 

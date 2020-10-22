@@ -2,12 +2,12 @@
 title: "How To Wear Bright Shoes"
 date: 2018-09-24T11:07:10+06:00
 author: John Doe
-image : "images/blog/blog-post-6.jpg"
+image : "images/blog/gex-scale-atex.png"
 bg_image: "images/featue-bg.jpg"
 categories: ["Company News"]
 tags: ["News","Retro","AI","Company"]
 description: "this is meta description"
-draft: false
+draft: true
 type: "post"
 ---
 

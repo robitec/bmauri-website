@@ -7,7 +7,7 @@ bg_image: "images/featue-bg.jpg"
 categories: ["Legacy Support"]
 tags: ["Mechine","Retro"]
 description: "this is meta description"
-draft: false
+draft: true
 type: "post"
 ---
 
