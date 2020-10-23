@@ -39,6 +39,7 @@ deploy:
   cleanup: true
   local_dir: public
   github_token: "$GITHUB_TOKEN"
+  keep_history: true
   on:
     branch: master
 
