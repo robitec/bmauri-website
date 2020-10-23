@@ -35,11 +35,10 @@ script:
 - echo "web.bmauri.com" >> $TRAVIS_BUILD_DIR/public/CNAME
 
 deploy:
-  strategy: git
   provider: pages
   cleanup: false
   local_dir: public
-  token: "$GITHUB_TOKEN"
+  github_token: "$GITHUB_TOKEN"
   on:
     branch: master
 
