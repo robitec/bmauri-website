@@ -125,8 +125,8 @@ description = "Básculas Mauri, profesionales de la industria del pesaje."
 author = "Grupo Mauri"
 # Contact Information
 mobile = "+34 902 21 20 85"
-phone = "+34 902 21 20 85"
-email = "contacto@bmauri.com"
+phone = "+34 977 24 12 80"
+email = "bmauri@bmauri.com"
 location = "Avinguda dels Països Catalans, 28 Local B, Tarragona"
 # contact form action
 contact_form_action = "https://formspree.io/website@bmauri.com" # contact form works with : https://formspree.io
