@@ -1,5 +1,5 @@
 ################################# Default configuration ###################
-baseURL = "https://web.bmauri.com/"
+baseURL = "https://www.bmauri.com/"
 title = "Básculas Mauri | Grupo Mauri"
 theme = "bmauri-theme"
 DefaultContentLanguage = "es"
