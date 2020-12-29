@@ -12,7 +12,7 @@ about:
           Destaca la experiencia en el sector, el trato humano y la valor de las cosas bien hechas. Trabajando con grandes y pequeñas empresas, proveemos de servicios técnicos son marcas como Sartorius, Minebea, Dini Argeo, Rice Laker, y durante muchos años siendo el máximo proveedor de Metler Toledo en España."
 
   button:
-    enable : true
+    enable : false
     label : "Historia completa"
     link : "#"
 

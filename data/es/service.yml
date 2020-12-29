@@ -35,7 +35,7 @@ featured_service:
 service:
   enable : true
   title : "Servicios"
-  description : "Ofrecemos soluciones para empresas de qualquier sector que necesiten instalar, certificar, mantener o mejorar sistemas de pesaje."
+  description : "Ofrecemos soluciones para empresas de qualquier sector que necesiten instalar, certificar, mantener y mejorar sistemas de pesaje."
 
   service_item:
     # service item loop
@@ -43,7 +43,7 @@ service:
     - icon: ion-ios-paper
       name: Calibraciones
       content: >
-        Certificacion ENAC, Calibraciones de Masa, Volumen y Temperatura.
+        Certificaciones, Ajustes, Calibraciones de Masa, Volumen y Temperatura.
       link:
         path: /blog/calibraciones-enac
         text_link: Saber más
