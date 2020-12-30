@@ -1,6 +1,6 @@
 ---
 title: "Calibraciones y Verificaciones"
-description: "Gestión Documental para la Certificaciones y Calibraciones de sus instrumentos de pesaje"
+description: "Gestión Documental para las Certificaciones y Calibraciones de sus instrumentos de pesaje"
 draft: false
 image : "images/portfolio/enac.jpg"
 bg_image: "images/portfolio/corona.jpg"
