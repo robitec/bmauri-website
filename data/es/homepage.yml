@@ -54,7 +54,7 @@ portfolio:
   "
   button:
     enable : true
-    label : "Nusetro Trabajo"
+    label : "Nuestro Trabajo"
     link : "blog"
 
 
