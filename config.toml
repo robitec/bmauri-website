@@ -159,21 +159,21 @@ iframe = "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d751.261204197426
 icon = "ion-social-googleplus-outline" #ionicon pack v2 : https://ionicons.com/v2/
 link = "https://www.google.es/search?q=Bascules+Mauri"
 
-[[params.social]]
-icon = "ion-social-linkedin-outline" #ionicon pack v2 : https://ionicons.com/v2/
-link = "https://www.linkedin.com/in/grupo-mauri-43b509183/"
-
 # [[params.social]]
 # icon = "ion-social-pinterest-outline" #ionicon pack v2 : https://ionicons.com/v2/
 # link = ""
 
 [[params.social]]
-icon = "ion-social-dribbble-outline" #ionicon pack v2 : https://ionicons.com/v2/
+icon = "ion-social-linkedin-outline" #ionicon pack v2 : https://ionicons.com/v2/
 link = "https://www.linkedin.com/company/bascules-mauri-sccl/"
 
 [[params.social]]
 icon = "ion-social-twitter-outline" #ionicon pack v2 : https://ionicons.com/v2/
 link = "https://twitter.com/search?q=industria%20tarragona"
+
+[[params.social]]
+icon = "ion-social-dribbble-outline" #ionicon pack v2 : https://ionicons.com/v2/
+link = "https://www.linkedin.com/in/grupo-mauri-43b509183/"
 
 [[params.social]]
 icon = "ion-social-youtube-outline" #ionicon pack v2 : https://ionicons.com/v2/
