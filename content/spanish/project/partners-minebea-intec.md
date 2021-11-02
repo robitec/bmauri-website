@@ -38,4 +38,4 @@ content: >
 
 ## Partners oficiales de Minebea © Intec en España
 
-
+<a href="/blog">Ver Productos relacionados</a>

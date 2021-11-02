@@ -23,13 +23,13 @@
 - id: pages
   translation: Soluciones
 - id: blog
-  translation: Proyectos
+  translation: Productos
 - id: FAQ
   translation: FAQ
 - id: about
   translation: Nosotros
 - id: project
-  translation: Recursos
+  translation: Empresa
 - id: service
   translation: Servicios
 - id: pricing

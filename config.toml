@@ -14,7 +14,8 @@ disqusShortname = "" # get your shortname form here : https://disqus.com
 # disable language
 disableLanguages = ['en', 'fr', 'cat']
 
-
+[markup.goldmark.renderer]
+unsafe= true
 #################################### Plugins ##############################
 
 # CSS Plugins
@@ -59,10 +60,10 @@ name = "service"
 URL = "service"
 weight = 3
 
-# [[menu.main]]
-# name = "blog"
-# URL = "blog"
-# weight = 4
+[[menu.main]]
+name = "blog"
+URL = "blog"
+weight = 4
 
 # [[menu.main]]
 # weight = 5
@@ -126,7 +127,7 @@ author = "Grupo Mauri"
 # Contact Information
 mobile = "+34 902 21 20 85"
 phone = "+34 977 24 12 80"
-email = "bmauri@bmauri.com"
+email = "central@bmauri.com"
 location = "Avinguda dels Països Catalans, 28 Local B, Tarragona"
 # contact form action
 contact_form_action = "https://formspree.io/f/myybpwyp" # contact form works with : https://formspree.io

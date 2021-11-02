@@ -2,8 +2,8 @@
 banner:
   enable : true
   bg_image : "images/slider-bg.jpg"
-  title : "Soluciones de pesaje para la Industria"
-  content : Pesaje industrial profesional. Trabajamos de forma cercana con el cliente para dar la mejor solución a sus necesidades
+  title : "Soluciones de pesaje Industrial"
+  content : Soluciones de Ingeniería a medida
   button:
     enable : true
     label : "Nuestros Proyectos"
@@ -19,7 +19,7 @@ slides:
     - "images/slides/slide-4.jpg"
     - "images/slides/slide-5.jpg"
     - "images/slides/slide-6.jpg"
-    - "images/slides/slide-7.jpg"
+    # - "images/slides/slide-7.jpg"
     - "images/slides/slide-8.jpg"
     - "images/slides/slide-9.jpg"
     - "images/slides/slide-10.jpg"
