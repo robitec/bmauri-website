@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>es-es</language>
     <copyright>Copyright &amp;copy; 2019 [Themefisher](https://themefisher.com) All Rights Reserved</copyright>
-    <lastBuildDate>Thu, 22 Oct 2020 11:07:10 +0600</lastBuildDate>
+    <lastBuildDate>Tue, 02 Nov 2021 11:07:10 +0600</lastBuildDate>
     
 	<atom:link href="https://www.bmauri.com/tags/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,7 +15,7 @@
     <item>
       <title>Atex</title>
       <link>https://www.bmauri.com/tags/atex/</link>
-      <pubDate>Thu, 22 Oct 2020 11:07:10 +0600</pubDate>
+      <pubDate>Tue, 02 Nov 2021 11:07:10 +0600</pubDate>
       
       <guid>https://www.bmauri.com/tags/atex/</guid>
       <description></description>
@@ -24,9 +24,45 @@
     <item>
       <title>Technology</title>
       <link>https://www.bmauri.com/tags/technology/</link>
-      <pubDate>Thu, 22 Oct 2020 11:07:10 +0600</pubDate>
+      <pubDate>Tue, 02 Nov 2021 11:07:10 +0600</pubDate>
       
       <guid>https://www.bmauri.com/tags/technology/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Truck</title>
+      <link>https://www.bmauri.com/tags/truck/</link>
+      <pubDate>Tue, 02 Nov 2021 11:07:10 +0600</pubDate>
+      
+      <guid>https://www.bmauri.com/tags/truck/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Detection</title>
+      <link>https://www.bmauri.com/tags/detection/</link>
+      <pubDate>Mon, 02 Aug 2021 11:07:10 +0600</pubDate>
+      
+      <guid>https://www.bmauri.com/tags/detection/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Minebea</title>
+      <link>https://www.bmauri.com/tags/minebea/</link>
+      <pubDate>Mon, 02 Aug 2021 11:07:10 +0600</pubDate>
+      
+      <guid>https://www.bmauri.com/tags/minebea/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dynamic</title>
+      <link>https://www.bmauri.com/tags/dynamic/</link>
+      <pubDate>Sun, 18 Jul 2021 11:07:10 +0600</pubDate>
+      
+      <guid>https://www.bmauri.com/tags/dynamic/</guid>
       <description></description>
     </item>
     
