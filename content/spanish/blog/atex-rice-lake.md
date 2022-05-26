@@ -1,6 +1,6 @@
 ---
 title: "Básculas GEX para zona ATEX 0"
-date: 2020-10-22T11:07:10+06:00
+date: 2022-05-22T11:07:10+06:00
 author: Germán Mauri
 image : "images/blog/gex-scale-atex.png"
 bg_image: "images/slides/slide-13.jpg"

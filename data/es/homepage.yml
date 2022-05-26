@@ -74,7 +74,7 @@ cta:
   button:
     enable : true
     label : "  Llamenos sin compromiso"
-    phone : "+34902212085"
+    phone : "+34977241280"
     icon: ion-ios-telephone-outline
 
 ############################# Funfacts ###############################
@@ -85,42 +85,42 @@ funfacts:
   funfact_item:
     # funfacts item loop
     - icon : "ion-ios-chatboxes-outline" #ionicon pack v2 : https://ionicons.com/v2/
-      name : "Soporte"
-      count : "99"
+      name : "Assistencias técnicas"
+      count : "410"
 
     # funfacts item loop
     - icon : "ion-ios-glasses-outline" #ionicon pack v2 : https://ionicons.com/v2/
       name : "Proyectos de Ingeniería"
-      count : "45"
+      count : "50"
 
     # funfacts item loop
     - icon : "ion-ios-compose-outline" #ionicon pack v2 : https://ionicons.com/v2/
       name : "Certificaciones"
-      count : "125"
+      count : "630"
 
     # funfacts item loop
     - icon : "ion-ios-timer-outline" #ionicon pack v2 : https://ionicons.com/v2/
-      name : "Instalaciones"
-      count : "200"
+      name : "Equips Vendidos"
+      count : "870"
 
   testimonial_slider:
     # testimonial item loop
     - icon: ion-ios-person
       name : "Repsol Química"
       image : "images/clients/repsol.jpg"
-      designation : "Soporte Principal"
+      designation : "Servicio Técnico"
       content : "Soporte principal con contrato oficial para las Certificaciones y Mantenimientos en Repsol Química en Tarragona."
 
     # testimonial item loop
     - name : "BASF"
       icon: ion-ios-paper-outline
       image : "images/clients/basf.png"
-      designation : "Certificador Oficial"
-      content : "Contrato oficial de certificación y mantenimiento de maquinaria de pesaje para la BASF Tarragona."
+      designation : "Certificador & Homologación"
+      content : "Calibradores principales para la certificación y mantenimiento de maquinaria de pesaje en la BASF."
 
     # testimonial item loop
-    - name : "Fedex España"
-      icon: ion-ios-paper-outline
-      image : "images/clients/fedex.png"
-      designation : "Certificador Oficial"
-      content : "Contrato oficial para la certificación de pesaje para la empresa multinacional FedEx en toda la península."
+    - name : "Nestle"
+      icon: ion-bag
+      image : "images/clients/nestle.jpg"
+      designation : "Proveedor Principal"
+      content : "Proveedor de pesaje industrial. Equipos de primera calidad para la industria alimentaria."
