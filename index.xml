@@ -7,18 +7,29 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>es-es</language>
     <copyright>Copyright &amp;copy; 2019 [Themefisher](https://themefisher.com) All Rights Reserved</copyright>
-    <lastBuildDate>Sun, 22 May 2022 11:07:10 +0600</lastBuildDate>
+    <lastBuildDate>Mon, 15 Aug 2022 10:07:10 +0600</lastBuildDate>
     
 	<atom:link href="https://www.bmauri.com/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Básculas GEX para zona ATEX 0</title>
-      <link>https://www.bmauri.com/blog/atex-rice-lake/</link>
-      <pubDate>Sun, 22 May 2022 11:07:10 +0600</pubDate>
+      <title>Control de Accesos</title>
+      <link>https://www.bmauri.com/blog/control-de-accesos/</link>
+      <pubDate>Mon, 15 Aug 2022 10:07:10 +0600</pubDate>
       
-      <guid>https://www.bmauri.com/blog/atex-rice-lake/</guid>
-      <description>PARA ZONAS ATEX 0 Las básculas de seguridad intrínseca GEX pertenecen a la categoría de dispositivos 1G y son aptas para su uso en las zonas ATEX 0, 1 y 2.</description>
+      <guid>https://www.bmauri.com/blog/control-de-accesos/</guid>
+      <description>CONTROL DE ENTRADA Y SALIDA POR LECTURA DE MATRÍCULA Sistema de Control de Acceso y Pesaje automático en Básculas de Camiones. Con sistemas de estas características instalados por Mauri en funcionamiento desde hace más de 5 años, Mauri sigue mejorando y ganando la confianza de sus clientes instalando Sistemas de Seguridad y control por Lectura de Matrícula en Básculas y Plantas con un flujo de acceso y peaje que llega a superar los 5.</description>
+    </item>
+    
+    <item>
+      <title>Pesaje dinámico</title>
+      <link>https://www.bmauri.com/blog/dynamic-weighing/</link>
+      <pubDate>Fri, 18 Feb 2022 11:07:10 +0600</pubDate>
+      
+      <guid>https://www.bmauri.com/blog/dynamic-weighing/</guid>
+      <description>© Básculas Mauri Ingeniería España
+Sinfines, Cintas y Cinturones Pesadores para la dosificación continua de producto neto. Ver más en nuestro Linkedin.
+  </description>
     </item>
     
     <item>
@@ -32,15 +43,6 @@
     </item>
     
     <item>
-      <title>Transpaletas Pesadoras</title>
-      <link>https://www.bmauri.com/blog/transpaletas-pesadora/</link>
-      <pubDate>Tue, 02 Nov 2021 11:07:10 +0600</pubDate>
-      
-      <guid>https://www.bmauri.com/blog/transpaletas-pesadora/</guid>
-      <description>AMPLIA GAMA DE SOLUCIONES PARA MÚLTIPLES APLICACIONES Amplia gama de soluciones para integrar el pesaje en carretillas elevadoras, apiladores y transpaletas eléctricas: desde el sensor de presión, pasando por las horquillas, hasta las planchas de pesaje, para transformar tu carretilla y transpaleta en una báscula móvil.</description>
-    </item>
-    
-    <item>
       <title>Soluciones de Inpección</title>
       <link>https://www.bmauri.com/blog/metal-detector/</link>
       <pubDate>Mon, 02 Aug 2021 11:07:10 +0600</pubDate>
@@ -51,14 +53,21 @@ Detectores de Metales Desde la Venta a la puesta en marcha te ayudamos con la In
     </item>
     
     <item>
-      <title>Pesaje dinámico</title>
-      <link>https://www.bmauri.com/blog/dynamic-weighing/</link>
-      <pubDate>Sun, 18 Jul 2021 11:07:10 +0600</pubDate>
+      <title>Básculas GEX para zona ATEX 0</title>
+      <link>https://www.bmauri.com/blog/atex-rice-lake/</link>
+      <pubDate>Fri, 22 Jan 2021 11:07:10 +0600</pubDate>
       
-      <guid>https://www.bmauri.com/blog/dynamic-weighing/</guid>
-      <description>© Básculas Mauri Ingeniería España
-Sinfines, Cintas y Cinturones Pesadores para la dosificación continua de producto neto. Ver más en nuestro Linkedin.
-  </description>
+      <guid>https://www.bmauri.com/blog/atex-rice-lake/</guid>
+      <description>PARA ZONAS ATEX 0 Las básculas de seguridad intrínseca GEX pertenecen a la categoría de dispositivos 1G y son aptas para su uso en las zonas ATEX 0, 1 y 2.</description>
+    </item>
+    
+    <item>
+      <title>Transpaletas Pesadoras</title>
+      <link>https://www.bmauri.com/blog/transpaletas-pesadora/</link>
+      <pubDate>Sat, 02 Jan 2021 11:07:10 +0600</pubDate>
+      
+      <guid>https://www.bmauri.com/blog/transpaletas-pesadora/</guid>
+      <description>AMPLIA GAMA DE SOLUCIONES PARA MÚLTIPLES APLICACIONES Amplia gama de soluciones para integrar el pesaje en carretillas elevadoras, apiladores y transpaletas eléctricas: desde el sensor de presión, pasando por las horquillas, hasta las planchas de pesaje, para transformar tu carretilla y transpaleta en una báscula móvil.</description>
     </item>
     
     <item>
@@ -71,6 +80,15 @@ Sinfines, Cintas y Cinturones Pesadores para la dosificación continua de produc
     </item>
     
     <item>
+      <title>David Mauri</title>
+      <link>https://www.bmauri.com/author/david-mauri/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.bmauri.com/author/david-mauri/</guid>
+      <description>Fundador y Responable del Departamento de soporte técnico de Básculas Mauri.</description>
+    </item>
+    
+    <item>
       <title>Dini Argeo</title>
       <link>https://www.bmauri.com/project/distributor-dini-argeo/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -80,21 +98,12 @@ Sinfines, Cintas y Cinturones Pesadores para la dosificación continua de produc
     </item>
     
     <item>
-      <title>John Doe</title>
-      <link>https://www.bmauri.com/author/john-doe/</link>
+      <title>German Mauri</title>
+      <link>https://www.bmauri.com/author/german-mauri/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://www.bmauri.com/author/john-doe/</guid>
-      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin sit amet vulputate augue. Duis auctor lacus id vehicula gravida. Nam suscipit vitae purus et laoreet. Donec nisi dolor, consequat vel pretium id, auctor in dui.</description>
-    </item>
-    
-    <item>
-      <title>Mark Dinn</title>
-      <link>https://www.bmauri.com/author/mark-dinn/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.bmauri.com/author/mark-dinn/</guid>
-      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin sit amet vulputate augue. Duis auctor lacus id vehicula gravida. Nam suscipit vitae purus et laoreet. Donec nisi dolor, consequat vel pretium id, auctor in dui.</description>
+      <guid>https://www.bmauri.com/author/german-mauri/</guid>
+      <description>Fundador y Responable Comercial de Básculas Mauri.</description>
     </item>
     
     <item>

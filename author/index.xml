@@ -12,21 +12,21 @@
     
     
     <item>
-      <title>John Doe</title>
-      <link>https://www.bmauri.com/author/john-doe/</link>
+      <title>David Mauri</title>
+      <link>https://www.bmauri.com/author/david-mauri/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://www.bmauri.com/author/john-doe/</guid>
-      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin sit amet vulputate augue. Duis auctor lacus id vehicula gravida. Nam suscipit vitae purus et laoreet. Donec nisi dolor, consequat vel pretium id, auctor in dui.</description>
+      <guid>https://www.bmauri.com/author/david-mauri/</guid>
+      <description>Fundador y Responable del Departamento de soporte técnico de Básculas Mauri.</description>
     </item>
     
     <item>
-      <title>Mark Dinn</title>
-      <link>https://www.bmauri.com/author/mark-dinn/</link>
+      <title>German Mauri</title>
+      <link>https://www.bmauri.com/author/german-mauri/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://www.bmauri.com/author/mark-dinn/</guid>
-      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin sit amet vulputate augue. Duis auctor lacus id vehicula gravida. Nam suscipit vitae purus et laoreet. Donec nisi dolor, consequat vel pretium id, auctor in dui.</description>
+      <guid>https://www.bmauri.com/author/german-mauri/</guid>
+      <description>Fundador y Responable Comercial de Básculas Mauri.</description>
     </item>
     
   </channel>

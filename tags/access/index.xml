@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Truck on Básculas Mauri | Grupo Mauri</title>
-    <link>https://www.bmauri.com/tags/truck/</link>
-    <description>Recent content in Truck on Básculas Mauri | Grupo Mauri</description>
+    <title>Access on Básculas Mauri | Grupo Mauri</title>
+    <link>https://www.bmauri.com/tags/access/</link>
+    <description>Recent content in Access on Básculas Mauri | Grupo Mauri</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es-es</language>
     <copyright>Copyright &amp;copy; 2019 [Themefisher](https://themefisher.com) All Rights Reserved</copyright>
     <lastBuildDate>Mon, 15 Aug 2022 10:07:10 +0600</lastBuildDate>
     
-	<atom:link href="https://www.bmauri.com/tags/truck/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://www.bmauri.com/tags/access/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -19,15 +19,6 @@
       
       <guid>https://www.bmauri.com/blog/control-de-accesos/</guid>
       <description>CONTROL DE ENTRADA Y SALIDA POR LECTURA DE MATRÍCULA Sistema de Control de Acceso y Pesaje automático en Básculas de Camiones. Con sistemas de estas características instalados por Mauri en funcionamiento desde hace más de 5 años, Mauri sigue mejorando y ganando la confianza de sus clientes instalando Sistemas de Seguridad y control por Lectura de Matrícula en Básculas y Plantas con un flujo de acceso y peaje que llega a superar los 5.</description>
-    </item>
-    
-    <item>
-      <title>Transpaletas Pesadoras</title>
-      <link>https://www.bmauri.com/blog/transpaletas-pesadora/</link>
-      <pubDate>Sat, 02 Jan 2021 11:07:10 +0600</pubDate>
-      
-      <guid>https://www.bmauri.com/blog/transpaletas-pesadora/</guid>
-      <description>AMPLIA GAMA DE SOLUCIONES PARA MÚLTIPLES APLICACIONES Amplia gama de soluciones para integrar el pesaje en carretillas elevadoras, apiladores y transpaletas eléctricas: desde el sensor de presión, pasando por las horquillas, hasta las planchas de pesaje, para transformar tu carretilla y transpaleta en una báscula móvil.</description>
     </item>
     
   </channel>
