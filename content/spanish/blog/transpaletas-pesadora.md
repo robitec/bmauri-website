@@ -1,7 +1,7 @@
 ---
 title: "Transpaletas Pesadoras"
-date: 2021-11-02T11:07:10+06:00
-author: Germán Mauri
+date: 2021-01-02T11:07:10+06:00
+author: German Mauri
 image : "images/products/Toro_Pesador.jpg"
 bg_image: "images/slides/slide-16.jpg"
 categories: ["Company News"]

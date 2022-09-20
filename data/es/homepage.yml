@@ -14,10 +14,10 @@ slides:
   enable : true
   bg_images :
     - "images/slides/slide-1.jpg"
-    - "images/slides/slide-2.jpg"
+    # - "images/slides/slide-2.jpg"
     # - "images/slides/slide-3.jpg"
     - "images/slides/slide-4.jpg"
-    - "images/slides/slide-5.jpg"
+    # - "images/slides/slide-5.jpg"
     - "images/slides/slide-6.jpg"
     # - "images/slides/slide-7.jpg"
     - "images/slides/slide-8.jpg"
@@ -27,8 +27,8 @@ slides:
     # - "images/slides/slide-12.jpg"
     # - "images/slides/slide-13.jpg"
     - "images/slides/slide-14.jpg"
-    - "images/slides/slide-15.jpg"
-    - "images/slides/slide-16.jpg"
+    # - "images/slides/slide-15.jpeg"
+    # - "images/slides/slide-16.jpg"
     - "images/slides/slide-17.jpg"
 
 

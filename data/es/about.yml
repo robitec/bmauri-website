@@ -9,10 +9,13 @@ about:
   content : "Básculas Mauri es una empresa dedicada al sector del pesaje desde mediados de los 80, con una experiencia en el sector de más de 50 años. Fué fundada por Germán Mauri Pla y sus tres hijos que siguen con la misma filosofía y valores.
 
 
-          Destaca la experiencia en el sector, el trato humano y la valor de las cosas bien hechas. Trabajando con grandes y pequeñas empresas, proveemos de servicios técnicos son marcas como Sartorius, Minebea, Dini Argeo, Rice Laker, y durante muchos años siendo el máximo proveedor de Metler Toledo en España.
+          </br>Destaca la experiencia en el sector, el trato humano y la valor de las cosas bien hechas. Trabajando con grandes y pequeñas empresas, proveemos de servicios técnicos son marcas como Sartorius, Minebea, Dini Argeo, Rice Laker, y durante muchos años siendo el máximo proveedor de Metler Toledo en España.
           
-          Mauri posee de la contratación de servicios de Mantenimiento y Calibración de empresas como; Repsol, BASF, Nestlé, DOW, y muchas más, que depositan su confianza en nuestra experiencia y profesionalidad en el sector."
 
+          </br>**Mauri** da servicios de Mantenimiento y Calibración por contratación en empresas como; Repsol, BASF o Nestlé Girona entre otras, que depositan su confianza en nuestra experiencia y profesionalidad en el sector.
+
+
+          </br>Fundada recientemente,  el **Grupo Mauri** ofrece soluciones a medida en todos los sectores de la Industria creando su propia ingeniería **<a href='https://www.robitec.es' target='blank'>Robitec Industry Solutions</a>**."
   button:
     enable : false
     label : "Historia completa"
@@ -38,6 +41,8 @@ about:
     - image: "/images/clients/clients-logo-13.jpg"
     - image: "/images/clients/clients-logo-7.jpg"
     - image: "/images/clients/clients-logo-17.jpg"
+    - image: "/images/clients/clients-logo-18.jpg"
+    - image: "/images/clients/clients-logo-19.png"
 
   funfacts:
     # funfacts loop

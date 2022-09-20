@@ -1,7 +1,7 @@
 ---
 title: "Soluciones de Inpección"
 date: 2021-08-02T11:07:10+06:00
-author: Oriol Mauri
+author: David Mauri
 image : "/images/products/csm_pic_vistus_complete_belt_57b8e097cb.png"
 bg_image: "images/slides/slide-16.jpg"
 categories: ["Company News"]

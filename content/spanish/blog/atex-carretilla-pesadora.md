@@ -1,7 +1,7 @@
 ---
 title: "Carretillas Pesadoras"
 date: 2021-11-02T11:07:10+06:00
-author: Germán Mauri
+author: German Mauri
 image : "images/products/Pallet_truck_scale_home.png"
 bg_image: "images/slides/slide-16.jpg"
 categories: ["Company News"]

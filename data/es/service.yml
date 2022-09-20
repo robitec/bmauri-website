@@ -2,10 +2,24 @@
 about:
   enable : true
   title : "Comprometidos con el cliente"
-  content : "Ofrecemos servicios con el objetivo de satisfacer las necesidades del cliente siempre lo mejor que nos ofrece nuestra experiencia.
+  content : "Nuestros clientes cuentan con una línea derecta de atención a su disposición. Basta con ponerse en contacto con nosotros ofreciendo la mejor asistencia en cuaquiera de nuestros departamenteos:
+              
+              
+              **Comercial** Contacto rápido y disponibilidad de la línea de atención comercial.
+
+
+              **Soporte** Expertos con experiencia en lo relativo al hardware y el software.
+
+
+              **Calibraciones** Asistencia Periódica en la Documentación de sus equipos."
+  image : "images/company/company-group-pic.jpg"
+  
+  title2 : "Mantenimiento y Calibraciones Periódicas"
+  content2 : "Ofrecemos Servicios de **Mantenimiento**, **Soporte SAT / IT** y **Calibraciones** tanto *ENAC* como de Calidad Interna desde básculas de **Laboratorio** a básculas de camiones y **Ferrocarril**.
+  Ofrecemos servicios con el objetivo de satisfacer las necesidades del cliente siempre lo mejor que nos ofrece nuestra experiencia.
   Nuestra máxima prioridad es facilitar la vida al cliente, cumpliendo con las especificaciones técnicas y aportando soluciones adaptadas a cada situación.
   Con más de 30 años en el sector del pesaje, podemos decir que los procedimientos que aplicamos en las calibraciones, reparaciones e instalaciones están a la altura de los más grandes."
-  image : "images/company/company-group-pic.jpg"
+  image2 : "images/company/company-group-pic2.jpg"
 
 
 ########################## featured service ############################
@@ -13,22 +27,22 @@ featured_service:
   enable : true
   service_item:
     # featured service item loop
-    - name : "Diseño de producto"
-      icon : "ion-easel"
+    - name : "Servicio Comercial"
+      icon : "ion-bag"
       color : "primary"
-      content : "Con expertos en el sector de la ingeniería industrial, diseñamos soluciones a los requerimientos del sector."
+      content : "Como expertos en el sector de la industrial del pesaje, ofrecemos consejo y productos adaptados a su necesidad. </br> *Responsable: German Mauri*"
 
     # featured service item loop
-    - name : "Proveedores de confianza"
+    - name : "Certificaciones y Calibraciones"
       icon : "ion-ribbon-b"
       color : "primary-dark"
-      content : "Siendo parners oficiales de Mineba Intec® con varios distribuidores, ofrecemos productos certificados de calidad."
+      content : "Siendo Laboratorio certificado acreditados ENAC, ofrecemos tanto Calibraciones como ajustes en sus equipos.  </br> *Responsable: Carlos Mauri*"
 
     # featured service item loop
     - name : "Insalaciones y Mantenimiento"
       icon : "ion-gear-a"
       color : "primary-darker"
-      content : "Caracterizados por el servicio técnico, ofrefemos mantenimiento y assistencia a empresas y particulares."
+      content : "Caracterizados por el servicio técnico, ofrefemos mantenimiento y assistencia personalizada a empresas y particulares. </br> *Responsable: David  Mauri*"
 
 
 ############################# Service ###############################

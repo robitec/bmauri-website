@@ -1,7 +1,7 @@
 ---
 title: "Pesaje dinámico"
-date: 2021-07-18T11:07:10+06:00
-author: Oriol Mauri
+date: 2022-02-18T11:07:10+06:00
+author: David Mauri
 image : "images/portfolio/work5.jpg"
 bg_image: "images/slides/slide-16.jpg"
 categories: ["Company News"]
