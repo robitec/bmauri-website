@@ -88,7 +88,7 @@ features:
     # feature item loop
     - icon : "ion-document" #ionicon pack v2 : https://ionicons.com/v2/
       name : "Certificadores Oficiales"
-      content : "Certificamos equipos con ENAC. Desde Laboratorios a básculas ferroviarias"
+      content : "Certificamos equipos de pesaje tanto de precisión como de gran capacidad"
 
     # feature item loop
     - icon : "ion-ios-person-outline" #ionicon pack v2 : https://ionicons.com/v2/

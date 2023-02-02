@@ -15,7 +15,7 @@ about:
   image : "images/company/company-group-pic.jpg"
   
   title2 : "Mantenimiento y Calibraciones Periódicas"
-  content2 : "Ofrecemos Servicios de **Mantenimiento**, **Soporte SAT / IT** y **Calibraciones** tanto *ENAC* como de Calidad Interna desde básculas de **Laboratorio** a básculas de camiones y **Ferrocarril**.
+  content2 : "Ofrecemos Servicios de **Mantenimiento**, **Soporte SAT / IT** y **Calibraciones** desde básculas de **Laboratorio** a básculas de camiones y **Ferrocarril**.
   Ofrecemos servicios con el objetivo de satisfacer las necesidades del cliente siempre lo mejor que nos ofrece nuestra experiencia.
   Nuestra máxima prioridad es facilitar la vida al cliente, cumpliendo con las especificaciones técnicas y aportando soluciones adaptadas a cada situación.
   Con más de 30 años en el sector del pesaje, podemos decir que los procedimientos que aplicamos en las calibraciones, reparaciones e instalaciones están a la altura de los más grandes."
@@ -36,7 +36,7 @@ featured_service:
     - name : "Certificaciones y Calibraciones"
       icon : "ion-ribbon-b"
       color : "primary-dark"
-      content : "Siendo Laboratorio certificado acreditados ENAC, ofrecemos tanto Calibraciones como ajustes en sus equipos.  </br> *Responsable: Carlos Mauri*"
+      content : "Como empresa experta en el sector del pesaje, ofrecemos tanto Calibraciones como ajustes en sus equipos.  </br> *Responsable: Carlos Mauri*"
 
     # featured service item loop
     - name : "Insalaciones y Mantenimiento"
