@@ -6,24 +6,21 @@
     <description>Recent content in Authors on Básculas Mauri | Grupo Mauri</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es-es</language>
-    <copyright>Copyright &amp;copy; 2019 [Themefisher](https://themefisher.com) All Rights Reserved</copyright><atom:link href="https://www.bmauri.com/author/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>Copyright &amp;copy; 2019 [Themefisher](https://themefisher.com) All Rights Reserved</copyright>
+    <atom:link href="https://www.bmauri.com/author/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>David Mauri</title>
       <link>https://www.bmauri.com/author/david-mauri/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://www.bmauri.com/author/david-mauri/</guid>
       <description>Fundador y Responable del Departamento de soporte técnico de Básculas Mauri.</description>
     </item>
-    
     <item>
       <title>German Mauri</title>
       <link>https://www.bmauri.com/author/german-mauri/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://www.bmauri.com/author/german-mauri/</guid>
       <description>Fundador y Responable Comercial de Básculas Mauri.</description>
     </item>
-    
   </channel>
 </rss>
